@@ -1,0 +1,24 @@
+{
+    "name": "YouTube",
+    "description": "A video sharing platform where users can upload, share, and view videos",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "googlevideo.com",
+        "youtu.be",
+        "youtube-nocookie.com",
+        "youtube.be",
+        "youtube.co.uk",
+        "youtube.com",
+        "youtube.de",
+        "youtube.fr",
+        "youtube.googleapis.com",
+        "youtube.nl",
+        "youtube.pl",
+        "youtubeeducation.com",
+        "youtubegaming.com",
+        "youtubei.googleapis.com",
+        "youtubekids.com",
+        "yt3.ggpht.com",
+        "ytimg.com"
+    ]
+}

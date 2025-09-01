@@ -1,0 +1,8 @@
+{
+    "name": "Google Chat",
+    "description": "A messaging app",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "chat.google.com"
+    ]
+}

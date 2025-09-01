@@ -1,0 +1,8 @@
+{
+    "name": "Tumblr",
+    "description": "A microblogging platform for sharing multimedia content",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "tumblr.com"
+    ]
+}

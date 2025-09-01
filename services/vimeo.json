@@ -1,0 +1,11 @@
+{
+    "name": "Vimeo",
+    "description": "A video hosting platform",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "vimeo-video.map.fastly.net",
+        "vimeo.com",
+        "vimeo.map.fastly.net",
+        "vimeocdn.com"
+    ]
+}

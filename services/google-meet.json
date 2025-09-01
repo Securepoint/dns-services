@@ -1,0 +1,8 @@
+{
+    "name": "Google Meet",
+    "description": "A video conferencing service",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "meet.google.com"
+    ]
+}

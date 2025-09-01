@@ -1,0 +1,10 @@
+{
+    "name": "Messenger",
+    "description": "A messaging platform developed by Facebook",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "edge-chat.facebook.com",
+        "messenger.com",
+        "chat-e2ee-mini.facebook.com"
+    ]
+}

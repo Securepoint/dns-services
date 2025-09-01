@@ -1,0 +1,8 @@
+{
+    "name": "Midjourney",
+    "description": "An AI model",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "midjourney.com"
+    ]
+}

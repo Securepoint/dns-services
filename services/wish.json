@@ -1,0 +1,8 @@
+{
+    "name": "Wish",
+    "description": "An online retail service.",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "wish.com"
+    ]
+}

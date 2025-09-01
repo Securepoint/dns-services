@@ -1,0 +1,19 @@
+{
+    "name": "Steam",
+    "description": "A digital distribution platform for video games",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "poweredbysteam.net",
+        "steam-chat.com",
+        "steamcdn-a.akamaihd.net",
+        "steamcommunity.com",
+        "steamcommunity-a.akamaihd.net",
+        "steamcommunity-a.akamaihd.net.edgesuite.net",
+        "steamgames.com",
+        "steamgames.net",
+        "steampowered.com",
+        "steamstatic.com",
+        "steamstore-a.akamaihd.net",
+        "steamusercontent-a.akamaihd.net"
+    ]
+}

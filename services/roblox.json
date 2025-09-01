@@ -1,0 +1,9 @@
+{
+    "name": "Roblox",
+    "description": "An online platform that allows users to create and play games created by other users",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "rbxcdn.com",
+        "roblox.com"
+    ]
+}

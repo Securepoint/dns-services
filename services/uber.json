@@ -1,0 +1,8 @@
+{
+    "name": "Uber",
+    "description": "A ride-hailing service.",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "uber.com"
+    ]
+}

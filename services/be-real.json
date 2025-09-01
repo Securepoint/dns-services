@@ -1,0 +1,9 @@
+{
+    "name": "BeReal",
+    "description": "A social media platform for sharing real-life moments",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "bere.al",
+        "bereal.com"
+    ]
+}

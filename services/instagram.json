@@ -1,0 +1,12 @@
+{
+    "name": "Instagram",
+    "description": "A photo and video sharing social networking service",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "cdninstagram.com",
+        "instagram.com",
+        "instagram.fpoa11-1.fna.fbcdn.net",
+        "instagram.fpoa11-2.fna.fbcdn.net",
+        "edge-chat.instagram.com"
+    ]
+}

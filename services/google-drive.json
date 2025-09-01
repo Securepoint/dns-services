@@ -1,0 +1,8 @@
+{
+    "name": "Google Drive",
+    "description": "A cloud storage service.",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "drive.google.com"
+    ]
+}

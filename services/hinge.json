@@ -1,0 +1,8 @@
+{
+    "name": "Hinge",
+    "description": "A dating app for connecting people",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "hinge.co"
+    ]
+}

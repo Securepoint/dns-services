@@ -1,0 +1,8 @@
+{
+    "name": "Clubhouse",
+    "description": "A social audio app for drop-in conversations",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "clubhouse.com"
+    ]
+}

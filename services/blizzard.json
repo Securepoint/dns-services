@@ -1,0 +1,9 @@
+{
+    "name": "Blizzard",
+    "description": "A video game developer and publisher known for titles like World of Warcraft and Overwatch",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "battle.net",
+        "blizzard.com"
+    ]
+}

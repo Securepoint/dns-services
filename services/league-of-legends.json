@@ -1,0 +1,9 @@
+{
+    "name": "League of Legends",
+    "description": "A popular online battle arena game",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "leagueoflegends.com",
+        "lol.riotgames.com"
+    ]
+}

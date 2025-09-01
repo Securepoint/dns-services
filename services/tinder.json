@@ -1,0 +1,10 @@
+{
+    "name": "Tinder",
+    "description": "A dating app for connecting people",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "gotinder.com",
+        "tinder.com",
+        "tindersparks.com"
+    ]
+}

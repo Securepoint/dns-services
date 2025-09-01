@@ -1,0 +1,8 @@
+{
+    "name": "Crunchyroll",
+    "description": "A streaming service for anime and Asian dramas.",
+    "favicon": "https://example.com/favicon.ico",
+    "patterns": [
+        "^([a-zA-Z0-9-]+\\.)*crunchyroll\\.([a-zA-Z0-9.-]+)$"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Dailymotion",
+    "description": "A video-sharing platform",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "dailymotion.com",
+        "dm-event.net",
+        "dmcdn.net"
+    ]
+}

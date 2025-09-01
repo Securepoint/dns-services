@@ -1,0 +1,8 @@
+{
+    "name": "Trello",
+    "description": "A project management tool.",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "trello.com"
+    ]
+}

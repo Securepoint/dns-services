@@ -1,0 +1,8 @@
+{
+    "name": "AliExpress",
+    "description": "An online retail service based in China.",
+    "favicon": "https://example.com/favicon.ico",
+    "patterns": [
+        "^([a-zA-Z0-9-]+\\.)*aliexpress\\.([a-zA-Z0-9.-]+)$"
+    ]
+}

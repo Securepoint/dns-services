@@ -1,0 +1,9 @@
+{
+    "name": "Signal",
+    "description": "A private messaging app",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "signal.org",
+        "textsecure-service.whispersystems.org"
+    ]
+}

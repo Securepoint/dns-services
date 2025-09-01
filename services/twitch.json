@@ -1,0 +1,15 @@
+{
+    "name": "Twitch",
+    "description": "A live streaming platform primarily for gamers",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "ext-twitch.tv",
+        "jtvnw.net",
+        "ttvnw.net",
+        "ttvnw.net",
+        "twitch.map.fastly.net",
+        "twitch.tv",
+        "twitchcdn.net",
+        "twitchsvc.net"
+    ]
+}

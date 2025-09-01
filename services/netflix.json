@@ -1,0 +1,13 @@
+{
+    "name": "Netflix",
+    "description": "A video streaming platform",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "netflix.com",
+        "netflix.net",
+        "nflxext.com",
+        "nflximg.net",
+        "nflxso.net",
+        "nflxvideo.net"
+    ]
+}

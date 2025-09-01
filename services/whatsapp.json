@@ -1,0 +1,9 @@
+{
+    "name": "Whatsapp",
+    "description": "A messaging platform",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "whatsapp.com",
+        "whatsapp.net"
+    ]
+}

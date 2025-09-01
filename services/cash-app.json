@@ -1,0 +1,8 @@
+{
+    "name": "Cash App",
+    "description": "A mobile payment service.",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "cash.app"
+    ]
+}

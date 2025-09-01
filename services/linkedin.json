@@ -1,0 +1,8 @@
+{
+    "name": "LinkedIn",
+    "description": "A professional networking platform",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "linkedin.com"
+    ]
+}

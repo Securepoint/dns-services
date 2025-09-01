@@ -1,0 +1,8 @@
+{
+    "name": "PlayStation Network",
+    "description": "A gaming and digital media delivery service",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "playstation.net"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Prime Video",
+    "description": "A video streaming platform",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "primevideo.com",
+        "amazonvideo.com"
+    ]
+}

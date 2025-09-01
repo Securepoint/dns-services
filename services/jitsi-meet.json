@@ -1,0 +1,9 @@
+{
+    "name": "Jitsi Meet",
+    "description": "A video conferencing service",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "jitsi.org",
+        "meet.jit.si"
+    ]
+}

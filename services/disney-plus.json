@@ -1,0 +1,13 @@
+{
+    "name": "Disney+",
+    "description": "A video streaming platform",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "disney-plus.net",
+        "disneyplus.com",
+        "disneyplus.disney.co.jp",
+        "dssott.com",
+        "dssott.com.c.footprint.net",
+        "search-api-disney.bamgrid.com"
+    ]
+}

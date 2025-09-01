@@ -1,0 +1,11 @@
+{
+    "name": "Zoom",
+    "description": "A video conferencing platform",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "zoom.com",
+        "zoom.com.cn",
+        "zoom.us",
+        "zoomus.zendesk.com"
+    ]
+}

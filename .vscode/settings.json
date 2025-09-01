@@ -1,0 +1,13 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "services/*.json"
+            ],
+            "url": "./schema.json"
+        }
+    ],
+    "json.validate.enable": true,
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.formatOnSave": true
+}

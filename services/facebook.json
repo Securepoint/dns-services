@@ -1,0 +1,16 @@
+{
+    "name": "Facebook",
+    "description": "A social media platform for connecting with friends and sharing content",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "api.facebook.com",
+        "b-www.facebook.com",
+        "fb.com",
+        "fb.me",
+        "gateway.facebook.com",
+        "lithium.facebook.com",
+        "lookaside.facebook.com",
+        "m.facebook.com",
+        "www.facebook.com"
+    ]
+}

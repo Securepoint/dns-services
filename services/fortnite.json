@@ -1,0 +1,8 @@
+{
+    "name": "Fortnite",
+    "description": "A battle royale game developed by Epic Games",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "epicgames.com"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Bluesky",
+    "description": "A social network",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "bsky.app"
+    ]
+}

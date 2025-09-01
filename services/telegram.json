@@ -1,0 +1,11 @@
+{
+    "name": "Telegram",
+    "description": "A cloud-based instant messaging app",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "t.me",
+        "telegram.me",
+        "telegram.org",
+        "nicegram.app"
+    ]
+}

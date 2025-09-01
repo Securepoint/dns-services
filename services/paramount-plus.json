@@ -1,0 +1,8 @@
+{
+    "name": "Paramount+",
+    "description": "A streaming service for movies and TV shows.",
+    "favicon": "https://example.com/favicon.ico",
+    "patterns": [
+        "^([a-zA-Z0-9-]+\\.)*paramountplus\\.([a-zA-Z0-9.-]+)$"
+    ]
+}

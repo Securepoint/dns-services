@@ -1,0 +1,8 @@
+{
+    "name": "Alibaba",
+    "description": "An online retail service.",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "alibaba.com"
+    ]
+}

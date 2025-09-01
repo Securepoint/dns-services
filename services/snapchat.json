@@ -1,0 +1,17 @@
+{
+    "name": "Snapchat",
+    "description": "A multimedia messaging app",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "feelinsonice-hrd.appspot.com",
+        "feelinsonice.appspot.com",
+        "sc-analytics.appspot.com",
+        "sc-cdn.net",
+        "sc-gw.com",
+        "sc-jpl.com",
+        "sc-prod.net",
+        "snap-dev.net",
+        "snapads.com",
+        "snapchat.com"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Twitter (X)",
+    "description": "A microblogging platform for sharing short messages and updates",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "ads-twitter.com",
+        "t.co",
+        "twimg.com",
+        "twitter.com",
+        "twttr.com",
+        "twtrdns.net",
+        "x.com"
+    ]
+}

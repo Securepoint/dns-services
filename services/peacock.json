@@ -1,0 +1,11 @@
+{
+    "name": "Peacock",
+    "description": "A streaming service for movies and TV shows.",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "nbcuniversal.com"
+    ],
+    "patterns": [
+        "^([a-zA-Z0-9-]+\\.)*peacocktv\\.([a-zA-Z0-9.-]+)$"
+    ]
+}

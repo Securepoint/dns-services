@@ -1,0 +1,56 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "The name of the service"
+        },
+        "description": {
+            "type": "string",
+            "description": "A brief description of the service"
+        },
+        "favicon": {
+            "type": "string",
+            "description": "URL to the service's favicon"
+        },
+        "domains": {
+            "type": "array",
+            "description": "A list of domains associated with the service",
+            "items": {
+                "type": "string",
+                "pattern": "^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,}$"
+            }
+        },
+        "patterns": {
+            "type": "array",
+            "description": "A list of regex patterns to match domains",
+            "items": {
+                "type": "string"
+            }
+        }
+    },
+    "required": [
+        "name",
+        "description"
+    ],
+    "anyOf": [
+        {
+            "required": [
+                "domains"
+            ]
+        },
+        {
+            "required": [
+                "patterns"
+            ]
+        },
+        {
+            "required": [
+                "domains",
+                "patterns"
+            ]
+        }
+    ],
+    "additionalProperties": false
+}

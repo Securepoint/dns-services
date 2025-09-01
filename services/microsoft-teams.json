@@ -1,0 +1,8 @@
+{
+    "name": "Microsoft Teams",
+    "description": "A collaboration platform that integrates with Microsoft 365",
+    "favicon": "https://example.com/favicon.ico",
+    "domains": [
+        "teams.microsoft.com"
+    ]
+}

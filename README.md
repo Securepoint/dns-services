@@ -16,7 +16,7 @@ This repository contains JSON definitions for various services and their associa
 ```
 dns-services/
 ├── README.md
-├── schema.json          # JSON schema defining the service structure
+├── schema.json         # JSON schema defining the service structure
 └── services/           # Directory containing all service definitions
     ├── service1.json
     ├── service2.json

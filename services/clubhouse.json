@@ -1,7 +1,6 @@
 {
     "name": "Clubhouse",
     "description": "A social audio app for drop-in conversations",
-    "faviconDomain": "clubhouse.com",
     "domains": [
         "clubhouse.com"
     ]

@@ -1,7 +1,6 @@
 {
     "name": "Mastodon",
     "description": "A decentralized social media platform",
-    "faviconDomain": "mastodon.social",
     "domains": [
         "alive.bar",
         "ani.work",

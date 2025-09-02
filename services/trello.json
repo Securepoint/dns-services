@@ -1,7 +1,6 @@
 {
     "name": "Trello",
     "description": "A project management tool.",
-    "faviconDomain": "trello.com",
     "domains": [
         "trello.com"
     ]

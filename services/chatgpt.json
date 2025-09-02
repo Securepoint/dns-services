@@ -1,7 +1,6 @@
 {
     "name": "ChatGPT",
     "description": "An AI language model",
-    "faviconDomain": "chat.openai.com",
     "domains": [
         "chat.openai.com"
     ]

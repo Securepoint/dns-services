@@ -1,7 +1,6 @@
 {
     "name": "Badoo",
     "description": "A dating app for connecting people",
-    "faviconDomain": "badoo.de",
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*badoo\\.([a-zA-Z0-9.-]+)$"
     ]

@@ -1,7 +1,6 @@
 {
     "name": "TikTok",
     "description": "A social media platform for sharing short videos",
-    "faviconDomain": "tiktok.com",
     "domains": [
         "muscdn.com",
         "muscdn.com.akamaized.net",

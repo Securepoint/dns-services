@@ -1,7 +1,6 @@
 {
     "name": "Wish",
     "description": "An online retail service.",
-    "faviconDomain": "wish.com",
     "domains": [
         "wish.com"
     ]

@@ -1,7 +1,6 @@
 {
     "name": "Cash App",
     "description": "A mobile payment service.",
-    "faviconDomain": "cash.app",
     "domains": [
         "cash.app"
     ]

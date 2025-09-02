@@ -1,7 +1,6 @@
 {
     "name": "Peacock",
     "description": "A streaming service for movies and TV shows.",
-    "faviconDomain": "peacocktv.com",
     "domains": [
         "nbcuniversal.com"
     ],

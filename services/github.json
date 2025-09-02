@@ -1,7 +1,6 @@
 {
     "name": "Github",
     "description": "A code hosting platform",
-    "faviconDomain": "github.com",
     "domains": [
         "github.com",
         "gist.github.com"

@@ -1,7 +1,6 @@
 {
     "name": "Prime Video",
     "description": "A video streaming platform",
-    "faviconDomain": "primevideo.com",
     "domains": [
         "primevideo.com",
         "amazonvideo.com"

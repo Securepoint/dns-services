@@ -1,7 +1,6 @@
 {
     "name": "Tumblr",
     "description": "A microblogging platform for sharing multimedia content",
-    "faviconDomain": "tumblr.com",
     "domains": [
         "tumblr.com"
     ]

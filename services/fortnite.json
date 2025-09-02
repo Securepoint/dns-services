@@ -1,7 +1,6 @@
 {
     "name": "Fortnite",
     "description": "A battle royale game developed by Epic Games",
-    "faviconDomain": "epicgames.com",
     "domains": [
         "epicgames.com"
     ]

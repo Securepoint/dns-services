@@ -1,7 +1,6 @@
 {
     "name": "eBay",
     "description": "An online auction and shopping website",
-    "faviconDomain": "ebay.com",
     "domains": [
         "ebay-us.com",
         "ebay.at",

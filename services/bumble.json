@@ -1,7 +1,6 @@
 {
     "name": "Bumble",
     "description": "A dating app for connecting people",
-    "faviconDomain": "bumble.com",
     "domains": [
         "bumble.com"
     ]

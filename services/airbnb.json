@@ -1,7 +1,6 @@
 {
     "name": "Airbnb",
     "description": "A vacation rental service.",
-    "faviconDomain": "airbnb.de",
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*airbnb\\.([a-zA-Z0-9.-]+)$"
     ]

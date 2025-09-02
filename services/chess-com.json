@@ -1,7 +1,6 @@
 {
     "name": "Chess.com",
     "description": "A chess platform",
-    "faviconDomain": "chess.com",
     "domains": [
         "chess.com",
         "justdoinghomework.com",

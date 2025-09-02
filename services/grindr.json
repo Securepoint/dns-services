@@ -1,7 +1,6 @@
 {
     "name": "Grindr",
     "description": "A dating app for connecting people",
-    "faviconDomain": "grindr.com",
     "domains": [
         "grindr.com"
     ]

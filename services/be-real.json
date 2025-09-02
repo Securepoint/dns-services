@@ -1,7 +1,6 @@
 {
     "name": "BeReal",
     "description": "A social media platform for sharing real-life moments",
-    "faviconDomain": "bereal.com",
     "domains": [
         "bere.al",
         "bereal.com"

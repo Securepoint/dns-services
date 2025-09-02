@@ -1,7 +1,6 @@
 {
     "name": "Hinge",
     "description": "A dating app for connecting people",
-    "faviconDomain": "hinge.co",
     "domains": [
         "hinge.co"
     ]

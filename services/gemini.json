@@ -1,7 +1,6 @@
 {
     "name": "Gemini",
     "description": "An AI language model",
-    "faviconDomain": "gemini.google.com",
     "domains": [
         "gemini.google.com"
     ]

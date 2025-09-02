@@ -1,7 +1,6 @@
 {
     "name": "PayPal",
     "description": "A mobile payment service.",
-    "faviconDomain": "paypal.com",
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*paypal\\.([a-zA-Z0-9.-]+)$"
     ]

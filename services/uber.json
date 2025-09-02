@@ -1,7 +1,6 @@
 {
     "name": "Uber",
     "description": "A ride-hailing service.",
-    "faviconDomain": "uber.com",
     "domains": [
         "uber.com"
     ]

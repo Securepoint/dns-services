@@ -10,10 +10,6 @@
             "type": "string",
             "description": "A brief description of the service"
         },
-        "faviconDomain": {
-            "type": "string",
-            "description": "The domain from which the favicon should be requested"
-        },
         "domains": {
             "type": "array",
             "description": "A list of domains associated with the service",

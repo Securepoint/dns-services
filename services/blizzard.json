@@ -1,7 +1,6 @@
 {
     "name": "Blizzard",
     "description": "A video game developer and publisher known for titles like World of Warcraft and Overwatch",
-    "faviconDomain": "blizzard.com",
     "domains": [
         "battle.net",
         "blizzard.com"

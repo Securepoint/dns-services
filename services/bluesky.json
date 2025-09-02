@@ -1,7 +1,6 @@
 {
     "name": "Bluesky",
     "description": "A social network",
-    "faviconDomain": "bsky.app",
     "domains": [
         "bsky.app"
     ]

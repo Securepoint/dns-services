@@ -1,7 +1,6 @@
 {
     "name": "Pinterest",
     "description": "A social media platform for sharing and discovering new interests",
-    "faviconDomain": "pinterest.com",
     "domains": [
         "pin.it",
         "pinimg.com",

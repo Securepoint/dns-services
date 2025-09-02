@@ -1,7 +1,6 @@
 {
     "name": "Temu",
     "description": "An online retail service.",
-    "faviconDomain": "temu.com",
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*temu\\.([a-zA-Z0-9.-]+)$"
     ]

@@ -1,7 +1,6 @@
 {
     "name": "PlayStation Network",
     "description": "A gaming and digital media delivery service",
-    "faviconDomain": "playstation.net",
     "domains": [
         "playstation.net"
     ]

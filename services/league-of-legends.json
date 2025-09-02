@@ -1,7 +1,6 @@
 {
     "name": "League of Legends",
     "description": "A popular online battle arena game",
-    "faviconDomain": "leagueoflegends.com",
     "domains": [
         "leagueoflegends.com",
         "lol.riotgames.com"

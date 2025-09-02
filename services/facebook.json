@@ -1,7 +1,6 @@
 {
     "name": "Facebook",
     "description": "A social media platform for connecting with friends and sharing content",
-    "faviconDomain": "facebook.com",
     "domains": [
         "api.facebook.com",
         "b-www.facebook.com",

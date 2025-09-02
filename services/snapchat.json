@@ -1,7 +1,6 @@
 {
     "name": "Snapchat",
     "description": "A multimedia messaging app",
-    "faviconDomain": "snapchat.com",
     "domains": [
         "feelinsonice-hrd.appspot.com",
         "feelinsonice.appspot.com",

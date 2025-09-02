@@ -1,7 +1,6 @@
 {
     "name": "Netflix",
     "description": "A video streaming platform",
-    "faviconDomain": "netflix.com",
     "domains": [
         "netflix.com",
         "netflix.net",

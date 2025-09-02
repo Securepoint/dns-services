@@ -1,7 +1,6 @@
 {
     "name": "Google Chat",
     "description": "A messaging app",
-    "faviconDomain": "chat.google.com",
     "domains": [
         "chat.google.com"
     ]

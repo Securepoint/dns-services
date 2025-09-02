@@ -1,7 +1,6 @@
 {
     "name": "Instagram",
     "description": "A photo and video sharing social networking service",
-    "faviconDomain": "instagram.com",
     "domains": [
         "cdninstagram.com",
         "instagram.com",

@@ -1,7 +1,6 @@
 {
     "name": "Dropbox",
     "description": "A cloud storage service.",
-    "faviconDomain": "dropbox.com",
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*dropbox\\.([a-zA-Z0-9.-]+)$"
     ]

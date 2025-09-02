@@ -1,7 +1,6 @@
 {
     "name": "Slack",
     "description": "A collaboration hub that brings the right people together.",
-    "faviconDomain": "slack.com",
     "domains": [
         "slack.com"
     ]

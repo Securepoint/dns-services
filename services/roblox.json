@@ -1,7 +1,6 @@
 {
     "name": "Roblox",
     "description": "An online platform that allows users to create and play games created by other users",
-    "faviconDomain": "roblox.com",
     "domains": [
         "rbxcdn.com",
         "roblox.com"

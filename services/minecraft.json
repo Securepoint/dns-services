@@ -1,7 +1,6 @@
 {
     "name": "Minecraft",
     "description": "A sandbox video game developed by Mojang Studios",
-    "faviconDomain": "minecraft.net",
     "domains": [
         "minecraft.net",
         "minecraftservices.com",

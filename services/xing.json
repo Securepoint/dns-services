@@ -1,7 +1,6 @@
 {
     "name": "Xing",
     "description": "A professional networking platform",
-    "faviconDomain": "xing.com",
     "domains": [
         "xing.com"
     ]

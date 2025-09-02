@@ -1,7 +1,6 @@
 {
     "name": "Spotify",
     "description": "A music streaming platform",
-    "faviconDomain": "spotify.com",
     "domains": [
         "audio-ak-spotify-com.akamaized.net",
         "audio4-ak-spotify-com.akamaized.net",

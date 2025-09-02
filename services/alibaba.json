@@ -1,7 +1,6 @@
 {
     "name": "Alibaba",
     "description": "An online retail service.",
-    "faviconDomain": "alibaba.com",
     "domains": [
         "alibaba.com"
     ]

@@ -1,7 +1,6 @@
 {
     "name": "Zoom",
     "description": "A video conferencing platform",
-    "faviconDomain": "zoom.us",
     "domains": [
         "zoom.com",
         "zoom.com.cn",

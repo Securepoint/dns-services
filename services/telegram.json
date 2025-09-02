@@ -1,7 +1,6 @@
 {
     "name": "Telegram",
     "description": "A cloud-based instant messaging app",
-    "faviconDomain": "telegram.org",
     "domains": [
         "t.me",
         "telegram.me",

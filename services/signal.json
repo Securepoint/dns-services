@@ -1,7 +1,6 @@
 {
     "name": "Signal",
     "description": "A private messaging app",
-    "faviconDomain": "signal.org",
     "domains": [
         "signal.org",
         "textsecure-service.whispersystems.org"

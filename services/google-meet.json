@@ -1,7 +1,6 @@
 {
     "name": "Google Meet",
     "description": "A video conferencing service",
-    "faviconDomain": "meet.google.com",
     "domains": [
         "meet.google.com"
     ]

@@ -1,7 +1,6 @@
 {
     "name": "Twitter (X)",
     "description": "A microblogging platform for sharing short messages and updates",
-    "faviconDomain": "twitter.com",
     "domains": [
         "ads-twitter.com",
         "t.co",

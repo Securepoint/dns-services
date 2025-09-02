@@ -1,7 +1,6 @@
 {
     "name": "Twitch",
     "description": "A live streaming platform primarily for gamers",
-    "faviconDomain": "twitch.tv",
     "domains": [
         "ext-twitch.tv",
         "jtvnw.net",

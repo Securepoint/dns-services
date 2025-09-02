@@ -1,7 +1,6 @@
 {
     "name": "YouTube",
     "description": "A video sharing platform where users can upload, share, and view videos",
-    "faviconDomain": "youtube.com",
     "domains": [
         "googlevideo.com",
         "youtu.be",

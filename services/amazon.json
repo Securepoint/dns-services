@@ -1,7 +1,6 @@
 {
     "name": "Amazon",
     "description": "An online shopping platform",
-    "faviconDomain": "amazon.de",
     "domains": [
         "amazon.ae",
         "amazon.ca",

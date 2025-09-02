@@ -1,7 +1,6 @@
 {
     "name": "Midjourney",
     "description": "An AI model",
-    "faviconDomain": "midjourney.com",
     "domains": [
         "midjourney.com"
     ]

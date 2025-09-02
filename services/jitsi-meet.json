@@ -1,7 +1,6 @@
 {
     "name": "Jitsi Meet",
     "description": "A video conferencing service",
-    "faviconDomain": "jitsi.org",
     "domains": [
         "jitsi.org",
         "meet.jit.si"

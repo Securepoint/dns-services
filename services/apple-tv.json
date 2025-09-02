@@ -1,7 +1,6 @@
 {
     "name": "Apple TV",
     "description": "A streaming service for movies and TV shows.",
-    "faviconDomain": "tv.apple.com",
     "domains": [
         "tv.apple.com"
     ]

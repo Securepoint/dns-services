@@ -1,7 +1,6 @@
 {
     "name": "Tinder",
     "description": "A dating app for connecting people",
-    "faviconDomain": "tinder.com",
     "domains": [
         "gotinder.com",
         "tinder.com",

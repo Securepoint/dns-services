@@ -1,7 +1,6 @@
 {
     "name": "Whatsapp",
     "description": "A messaging platform",
-    "faviconDomain": "whatsapp.com",
     "domains": [
         "whatsapp.com",
         "whatsapp.net"

@@ -1,7 +1,6 @@
 {
     "name": "9GAG",
     "description": "A social media platform for sharing humorous content and memes",
-    "faviconDomain": "9gag.com",
     "domains": [
         "9cache.com",
         "9gag.com"

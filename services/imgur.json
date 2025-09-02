@@ -1,7 +1,6 @@
 {
     "name": "Imgur",
     "description": "An online image sharing community and image host",
-    "faviconDomain": "imgur.com",
     "domains": [
         "imgur.com"
     ]

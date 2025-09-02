@@ -1,6 +1,9 @@
 {
     "name": "Jitsi Meet",
-    "description": "A video conferencing service",
+    "description": {
+        "en": "A video conferencing service",
+        "de": "Ein Videokonferenzdienst"
+    },
     "domains": [
         "jitsi.org",
         "meet.jit.si"

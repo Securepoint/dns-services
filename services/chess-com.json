@@ -1,6 +1,9 @@
 {
     "name": "Chess.com",
-    "description": "A chess platform",
+    "description": {
+        "en": "A chess platform",
+        "de": "Eine Schachplattform"
+    },
     "domains": [
         "chess.com",
         "justdoinghomework.com",

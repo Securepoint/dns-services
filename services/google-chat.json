@@ -1,6 +1,9 @@
 {
     "name": "Google Chat",
-    "description": "A messaging app",
+    "description": {
+        "en": "A messaging app",
+        "de": "Eine Messaging-App"
+    },
     "domains": [
         "chat.google.com"
     ]

@@ -1,6 +1,9 @@
 {
     "name": "Slack",
-    "description": "A collaboration hub that brings the right people together.",
+    "description": {
+        "en": "A collaboration hub that brings the right people together.",
+        "de": "Eine Kollaborationsplattform, die die richtigen Leute zusammenbringt."
+    },
     "domains": [
         "slack.com"
     ]

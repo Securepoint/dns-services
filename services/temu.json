@@ -1,6 +1,9 @@
 {
     "name": "Temu",
-    "description": "An online retail service.",
+    "description": {
+        "en": "An online retail service.",
+        "de": "Ein Online-Einzelhandelsservice."
+    },
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*temu\\.([a-zA-Z0-9.-]+)$"
     ]

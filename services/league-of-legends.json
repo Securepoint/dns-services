@@ -1,6 +1,9 @@
 {
     "name": "League of Legends",
-    "description": "A popular online battle arena game",
+    "description": {
+        "en": "A popular online battle arena game",
+        "de": "Ein beliebtes Online-Battle-Arena-Spiel"
+    },
     "domains": [
         "leagueoflegends.com",
         "lol.riotgames.com"

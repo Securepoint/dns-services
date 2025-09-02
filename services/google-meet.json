@@ -1,6 +1,9 @@
 {
     "name": "Google Meet",
-    "description": "A video conferencing service",
+    "description": {
+        "en": "A video conferencing service",
+        "de": "Ein Videokonferenzdienst"
+    },
     "domains": [
         "meet.google.com"
     ]

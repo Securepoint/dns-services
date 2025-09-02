@@ -1,6 +1,9 @@
 {
     "name": "Uber",
-    "description": "A ride-hailing service.",
+    "description": {
+        "en": "A ride-hailing service.",
+        "de": "Ein Fahrdienst."
+    },
     "domains": [
         "uber.com"
     ]

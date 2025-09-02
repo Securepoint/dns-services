@@ -1,6 +1,9 @@
 {
     "name": "Netflix",
-    "description": "A video streaming platform",
+    "description": {
+        "en": "A leading subscription-based streaming service offering a vast library of movies, TV series, and original productions.",
+        "de": "Ein führender Streaming-Dienst mit einer riesigen Auswahl an Filmen, Serien und Eigenproduktionen auf Abruf."
+    },
     "domains": [
         "netflix.com",
         "netflix.net",

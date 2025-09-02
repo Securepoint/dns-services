@@ -1,6 +1,9 @@
 {
     "name": "Peacock",
-    "description": "A streaming service for movies and TV shows.",
+    "description": {
+        "en": "A streaming service for movies and TV shows.",
+        "de": "Ein Streaming-Dienst für Filme und Fernsehsendungen."
+    },
     "domains": [
         "nbcuniversal.com"
     ],

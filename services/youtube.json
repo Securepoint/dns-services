@@ -1,6 +1,9 @@
 {
     "name": "YouTube",
-    "description": "A video sharing platform where users can upload, share, and view videos",
+    "description": {
+        "en": "The world's largest video-sharing platform, allowing users to upload, discover, and interact with diverse video content.",
+        "de": "Die weltweit größte Videoplattform, auf der Nutzer Videos hochladen, entdecken und mit vielfältigen Inhalten interagieren können."
+    },
     "domains": [
         "googlevideo.com",
         "youtu.be",

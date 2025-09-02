@@ -1,6 +1,9 @@
 {
     "name": "Fortnite",
-    "description": "A battle royale game developed by Epic Games",
+    "description": {
+        "en": "A battle royale game developed by Epic Games",
+        "de": "Ein Battle-Royale-Spiel von Epic Games"
+    },
     "domains": [
         "epicgames.com"
     ]

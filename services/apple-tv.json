@@ -1,6 +1,9 @@
 {
     "name": "Apple TV",
-    "description": "A streaming service for movies and TV shows.",
+    "description": {
+        "en": "A premium streaming service by Apple offering original series, movies, and exclusive content on demand.",
+        "de": "Ein Premium-Streaming-Dienst von Apple mit exklusiven Serien, Filmen und Originalinhalten auf Abruf."
+    },
     "domains": [
         "tv.apple.com"
     ]

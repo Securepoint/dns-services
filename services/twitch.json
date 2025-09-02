@@ -1,6 +1,9 @@
 {
     "name": "Twitch",
-    "description": "A live streaming platform primarily for gamers",
+    "description": {
+        "en": "A live streaming platform primarily for gamers",
+        "de": "Eine Live-Streaming-Plattform, hauptsächlich für Gamer"
+    },
     "domains": [
         "ext-twitch.tv",
         "jtvnw.net",

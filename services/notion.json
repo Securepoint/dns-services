@@ -1,6 +1,9 @@
 {
     "name": "Notion",
-    "description": "A project management tool.",
+    "description": {
+        "en": "A project management tool.",
+        "de": "Ein Projektmanagement-Tool."
+    },
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*notion\\.([a-zA-Z0-9.-]+)$"
     ]

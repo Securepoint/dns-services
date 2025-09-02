@@ -1,6 +1,9 @@
 {
     "name": "9GAG",
-    "description": "A social media platform for sharing humorous content and memes",
+    "description": {
+        "en": "A global online platform for sharing and discovering viral memes, funny videos, and internet culture.",
+        "de": "Eine weltweite Online-Plattform zum Teilen und Entdecken von viralen Memes, lustigen Videos und Internetkultur."
+    },
     "domains": [
         "9cache.com",
         "9gag.com"

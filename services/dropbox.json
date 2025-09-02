@@ -1,6 +1,9 @@
 {
     "name": "Dropbox",
-    "description": "A cloud storage service.",
+    "description": {
+        "en": "A cloud storage service.",
+        "de": "Ein Cloud-Speicherdienst."
+    },
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*dropbox\\.([a-zA-Z0-9.-]+)$"
     ]

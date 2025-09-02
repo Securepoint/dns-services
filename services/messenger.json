@@ -1,6 +1,9 @@
 {
     "name": "Messenger",
-    "description": "A messaging platform developed by Facebook",
+    "description": {
+        "en": "A messaging platform developed by Facebook",
+        "de": "Eine von Facebook entwickelte Messaging-Plattform"
+    },
     "domains": [
         "edge-chat.facebook.com",
         "messenger.com",

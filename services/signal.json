@@ -1,6 +1,9 @@
 {
     "name": "Signal",
-    "description": "A private messaging app",
+    "description": {
+        "en": "A secure, privacy-focused messaging app offering end-to-end encrypted chats, calls, and media sharing.",
+        "de": "Eine sichere, datenschutzorientierte Messaging-App mit Ende-zu-Ende-verschlüsselten Chats, Anrufen und Medienübertragung."
+    },
     "domains": [
         "signal.org",
         "textsecure-service.whispersystems.org"

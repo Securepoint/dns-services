@@ -7,8 +7,21 @@
             "description": "The name of the service"
         },
         "description": {
-            "type": "string",
-            "description": "A brief description of the service"
+            "type": "object",
+            "properties": {
+                "en": {
+                    "type": "string",
+                    "description": "The English description of the service"
+                },
+                "de": {
+                    "type": "string",
+                    "description": "The German description of the service"
+                }
+            },
+            "required": [
+                "en",
+                "de"
+            ]
         },
         "domains": {
             "type": "array",

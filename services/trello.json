@@ -1,6 +1,9 @@
 {
     "name": "Trello",
-    "description": "A project management tool.",
+    "description": {
+        "en": "A project management tool.",
+        "de": "Ein Projektmanagement-Tool."
+    },
     "domains": [
         "trello.com"
     ]

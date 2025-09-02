@@ -1,6 +1,9 @@
 {
     "name": "Crunchyroll",
-    "description": "A streaming service for anime and Asian dramas.",
+    "description": {
+        "en": "A streaming service for anime and Asian dramas.",
+        "de": "Ein Streaming-Dienst für Anime und asiatische Dramen."
+    },
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*crunchyroll\\.([a-zA-Z0-9.-]+)$"
     ]

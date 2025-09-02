@@ -1,6 +1,9 @@
 {
     "name": "Venmo",
-    "description": "A mobile payment service.",
+    "description": {
+        "en": "A mobile payment service.",
+        "de": "Ein mobiler Zahlungsdienst."
+    },
     "domains": [
         "venmo.com"
     ]

@@ -1,6 +1,9 @@
 {
     "name": "Google Drive",
-    "description": "A cloud storage service.",
+    "description": {
+        "en": "A cloud-based file storage and synchronization service by Google, enabling secure file sharing and collaboration online.",
+        "de": "Ein cloudbasierter Dateispeicher- und Synchronisationsdienst von Google für sicheres Teilen und gemeinsames Arbeiten an Dateien."
+    },
     "domains": [
         "drive.google.com"
     ]

@@ -1,6 +1,9 @@
 {
     "name": "Github",
-    "description": "A code hosting platform",
+    "description": {
+        "en": "A collaborative platform for hosting, reviewing, and managing code repositories with version control and open source projects.",
+        "de": "Eine kollaborative Plattform zum Hosten, Überprüfen und Verwalten von Code-Repositories mit Versionskontrolle und Open-Source-Projekten."
+    },
     "domains": [
         "github.com",
         "gist.github.com"

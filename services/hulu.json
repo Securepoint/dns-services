@@ -1,6 +1,9 @@
 {
     "name": "Hulu",
-    "description": "A streaming service offering a wide variety of TV shows, movies, and original content",
+    "description": {
+        "en": "A streaming service offering a wide variety of TV shows, movies, and original content",
+        "de": "Ein Streaming-Dienst mit einer großen Auswahl an TV-Sendungen, Filmen und Originalinhalten"
+    },
     "domains": [
         "hulu.com"
     ]

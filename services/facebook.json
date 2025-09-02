@@ -1,6 +1,9 @@
 {
     "name": "Facebook",
-    "description": "A social media platform for connecting with friends and sharing content",
+    "description": {
+        "en": "A global social networking platform for connecting with friends, sharing updates, photos, and joining communities.",
+        "de": "Eine weltweite Social-Media-Plattform zum Verbinden mit Freunden, Teilen von Neuigkeiten, Fotos und dem Beitreten zu Gruppen."
+    },
     "domains": [
         "api.facebook.com",
         "b-www.facebook.com",

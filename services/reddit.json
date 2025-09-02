@@ -1,6 +1,9 @@
 {
     "name": "Reddit",
-    "description": "A social media platform for sharing humorous content and memes",
+    "description": {
+        "en": "A social media platform for sharing humorous content and memes",
+        "de": "Eine Social-Media-Plattform zum Teilen von humorvollen Inhalten und Memes"
+    },
     "domains": [
         "redd.it",
         "reddit.com",

@@ -1,6 +1,9 @@
 {
     "name": "Minecraft",
-    "description": "A sandbox video game developed by Mojang Studios",
+    "description": {
+        "en": "A sandbox video game developed by Mojang Studios",
+        "de": "Ein Sandbox-Videospiel von Mojang Studios"
+    },
     "domains": [
         "minecraft.net",
         "minecraftservices.com",

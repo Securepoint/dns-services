@@ -1,6 +1,9 @@
 {
     "name": "Airbnb",
-    "description": "A vacation rental service.",
+    "description": {
+        "en": "A global online marketplace for booking unique accommodations, apartments, and experiences from local hosts.",
+        "de": "Ein weltweiter Online-Marktplatz für die Buchung einzigartiger Unterkünfte, Apartments und Erlebnisse von lokalen Gastgebern."
+    },
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*airbnb\\.([a-zA-Z0-9.-]+)$"
     ]

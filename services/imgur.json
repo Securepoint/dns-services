@@ -1,6 +1,9 @@
 {
     "name": "Imgur",
-    "description": "An online image sharing community and image host",
+    "description": {
+        "en": "An online image sharing community and image host",
+        "de": "Eine Online-Community zum Teilen und Hosten von Bildern"
+    },
     "domains": [
         "imgur.com"
     ]

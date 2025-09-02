@@ -1,6 +1,9 @@
 {
     "name": "PayPal",
-    "description": "A mobile payment service.",
+    "description": {
+        "en": "A mobile payment service.",
+        "de": "Ein mobiler Zahlungsdienst."
+    },
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*paypal\\.([a-zA-Z0-9.-]+)$"
     ]

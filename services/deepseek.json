@@ -1,6 +1,9 @@
 {
     "name": "DeepSeek",
-    "description": "An AI language model",
+    "description": {
+        "en": "An AI language model",
+        "de": "Ein KI-Sprachmodell"
+    },
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*deepseek\\.([a-zA-Z0-9.-]+)$"
     ]

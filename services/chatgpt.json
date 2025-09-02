@@ -1,6 +1,9 @@
 {
     "name": "ChatGPT",
-    "description": "An AI language model",
+    "description": {
+        "en": "An AI language model",
+        "de": "Ein KI-Sprachmodell"
+    },
     "domains": [
         "chat.openai.com"
     ]

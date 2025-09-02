@@ -1,6 +1,9 @@
 {
     "name": "Tumblr",
-    "description": "A microblogging platform for sharing multimedia content",
+    "description": {
+        "en": "A microblogging platform for sharing multimedia content",
+        "de": "Eine Microblogging-Plattform zum Teilen von Multimedia-Inhalten"
+    },
     "domains": [
         "tumblr.com"
     ]

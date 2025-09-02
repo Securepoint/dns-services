@@ -1,6 +1,9 @@
 {
     "name": "Whatsapp",
-    "description": "A messaging platform",
+    "description": {
+        "en": "A messaging platform",
+        "de": "Eine Messaging-Plattform"
+    },
     "domains": [
         "whatsapp.com",
         "whatsapp.net"

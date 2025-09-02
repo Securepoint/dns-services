@@ -1,6 +1,9 @@
 {
     "name": "Wish",
-    "description": "An online retail service.",
+    "description": {
+        "en": "A global e-commerce platform offering affordable products, daily deals, and direct shipping from merchants to consumers.",
+        "de": "Eine globale E-Commerce-Plattform mit günstigen Produkten, täglichen Angeboten und Direktversand von Händlern an Verbraucher."
+    },
     "domains": [
         "wish.com"
     ]

@@ -1,6 +1,9 @@
 {
     "name": "Instagram",
-    "description": "A photo and video sharing social networking service",
+    "description": {
+        "en": "A visual social media platform for sharing photos, videos, and stories, connecting creators and audiences worldwide.",
+        "de": "Eine visuelle Social-Media-Plattform zum Teilen von Fotos, Videos und Stories, die Kreative und Nutzer weltweit verbindet."
+    },
     "domains": [
         "cdninstagram.com",
         "instagram.com",

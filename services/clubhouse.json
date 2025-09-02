@@ -1,6 +1,9 @@
 {
     "name": "Clubhouse",
-    "description": "A social audio app for drop-in conversations",
+    "description": {
+        "en": "A social audio app for drop-in conversations",
+        "de": "Eine soziale Audio-App für spontane Gespräche"
+    },
     "domains": [
         "clubhouse.com"
     ]

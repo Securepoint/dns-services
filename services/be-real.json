@@ -1,6 +1,9 @@
 {
     "name": "BeReal",
-    "description": "A social media platform for sharing real-life moments",
+    "description": {
+        "en": "A social media platform for sharing real-life moments",
+        "de": "Eine Social-Media-Plattform zum Teilen von echten Momenten"
+    },
     "domains": [
         "bere.al",
         "bereal.com"

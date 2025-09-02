@@ -1,7 +1,7 @@
 {
     "name": "DeepSeek",
     "description": "An AI language model",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "deepseek.com",
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*deepseek\\.([a-zA-Z0-9.-]+)$"
     ]

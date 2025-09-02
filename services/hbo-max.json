@@ -1,7 +1,7 @@
 {
     "name": "HBO Max",
     "description": "A video streaming platform",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "hbomax.com",
     "domains": [
         "hbomax.com",
         "max.com"

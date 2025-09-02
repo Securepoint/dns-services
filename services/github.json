@@ -1,7 +1,7 @@
 {
     "name": "Github",
     "description": "A code hosting platform",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "github.com",
     "domains": [
         "github.com",
         "gist.github.com"

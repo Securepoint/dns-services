@@ -1,7 +1,7 @@
 {
     "name": "Hulu",
     "description": "A streaming service offering a wide variety of TV shows, movies, and original content",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "hulu.com",
     "domains": [
         "hulu.com"
     ]

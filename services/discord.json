@@ -1,7 +1,7 @@
 {
     "name": "Discord",
     "description": "A popular communication platform for gamers",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "discord.com",
     "domains": [
         "discord.com",
         "discord.gg",

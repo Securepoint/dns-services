@@ -1,7 +1,7 @@
 {
     "name": "Dailymotion",
     "description": "A video-sharing platform",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "dailymotion.com",
     "domains": [
         "dailymotion.com",
         "dm-event.net",

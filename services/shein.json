@@ -1,7 +1,7 @@
 {
     "name": "Shein",
     "description": "An online retail service.",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "shein.com",
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*shein\\.([a-zA-Z0-9.-]+)$"
     ]

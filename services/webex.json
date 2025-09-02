@@ -1,7 +1,7 @@
 {
     "name": "Webex",
     "description": "A video conferencing service",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "webex.com",
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*webex\\.([a-zA-Z0-9.-]+)$"
     ]

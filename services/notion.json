@@ -1,7 +1,7 @@
 {
     "name": "Notion",
     "description": "A project management tool.",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "notion.so",
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*notion\\.([a-zA-Z0-9.-]+)$"
     ]

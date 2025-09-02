@@ -10,9 +10,9 @@
             "type": "string",
             "description": "A brief description of the service"
         },
-        "favicon": {
+        "faviconDomain": {
             "type": "string",
-            "description": "URL to the service's favicon"
+            "description": "The domain from which the favicon should be requested"
         },
         "domains": {
             "type": "array",

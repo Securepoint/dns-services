@@ -1,7 +1,7 @@
 {
     "name": "Grok",
     "description": "An AI language model",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "grok.com",
     "domains": [
         "grok.com"
     ]

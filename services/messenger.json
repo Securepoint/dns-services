@@ -1,7 +1,7 @@
 {
     "name": "Messenger",
     "description": "A messaging platform developed by Facebook",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "messenger.com",
     "domains": [
         "edge-chat.facebook.com",
         "messenger.com",

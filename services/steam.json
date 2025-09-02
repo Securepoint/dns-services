@@ -1,7 +1,7 @@
 {
     "name": "Steam",
     "description": "A digital distribution platform for video games",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "steampowered.com",
     "domains": [
         "poweredbysteam.net",
         "steam-chat.com",

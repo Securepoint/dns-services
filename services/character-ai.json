@@ -1,7 +1,7 @@
 {
     "name": "Character AI",
     "description": "An AI model",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "character.ai",
     "domains": [
         "character.ai"
     ]

@@ -1,7 +1,7 @@
 {
     "name": "Perplexity",
     "description": "An AI language model",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "perplexity.ai",
     "domains": [
         "perplexity.ai"
     ]

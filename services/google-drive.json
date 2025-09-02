@@ -1,7 +1,7 @@
 {
     "name": "Google Drive",
     "description": "A cloud storage service.",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "drive.google.com",
     "domains": [
         "drive.google.com"
     ]

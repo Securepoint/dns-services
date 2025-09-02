@@ -1,7 +1,7 @@
 {
     "name": "Reddit",
     "description": "A social media platform for sharing humorous content and memes",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "reddit.com",
     "domains": [
         "redd.it",
         "reddit.com",

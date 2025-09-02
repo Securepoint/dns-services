@@ -1,7 +1,7 @@
 {
     "name": "Xbox Live",
     "description": "An online gaming service for Xbox consoles",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "xbox.com",
     "domains": [
         "xbox.com",
         "xboxlive.com"

@@ -1,7 +1,7 @@
 {
     "name": "VK",
     "description": "A social media platform for connecting with friends and sharing content",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "vk.com",
     "domains": [
         "userapi.com",
         "vk-cdn.net",

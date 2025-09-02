@@ -1,7 +1,7 @@
 {
     "name": "Venmo",
     "description": "A mobile payment service.",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "venmo.com",
     "domains": [
         "venmo.com"
     ]

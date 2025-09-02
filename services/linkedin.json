@@ -1,7 +1,7 @@
 {
     "name": "LinkedIn",
     "description": "A professional networking platform",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "linkedin.com",
     "domains": [
         "linkedin.com"
     ]

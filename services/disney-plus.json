@@ -1,7 +1,7 @@
 {
     "name": "Disney+",
     "description": "A video streaming platform",
-    "favicon": "https://example.com/favicon.ico",
+    "faviconDomain": "disneyplus.com",
     "domains": [
         "disney-plus.net",
         "disneyplus.com",

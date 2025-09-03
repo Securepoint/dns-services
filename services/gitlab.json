@@ -1,0 +1,10 @@
+{
+    "name": "GitLab",
+    "description": {
+        "en": "A web-based DevOps lifecycle tool that provides Git repository management, CI/CD pipelines, and project management features.",
+        "de": "Ein webbasiertes DevOps-Lifecycle-Tool, das Git-Repository-Management, CI/CD-Pipelines und Projektmanagement-Funktionen bietet."
+    },
+    "domains": [
+        "gitlab.com"
+    ]
+}

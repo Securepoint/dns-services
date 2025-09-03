@@ -1,0 +1,13 @@
+{
+    "name": "Amazon Web Services",
+    "description": {
+        "en": "Amazon's comprehensive cloud computing platform offering web services, storage, and infrastructure solutions.",
+        "de": "Amazons umfassende Cloud-Computing-Plattform mit Webdiensten, Speicher und Infrastrukturlösungen."
+    },
+    "domains": [
+        "aws.amazon.com",
+        "amazonaws.com",
+        "awsstatic.com",
+        "cloudfront.net"
+    ]
+}

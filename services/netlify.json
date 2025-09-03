@@ -1,0 +1,11 @@
+{
+    "name": "Netlify",
+    "description": {
+        "en": "Web development platform that automates the deployment of websites and web applications with continuous integration.",
+        "de": "Web-Entwicklungsplattform, die die Bereitstellung von Websites und Webanwendungen mit kontinuierlicher Integration automatisiert."
+    },
+    "domains": [
+        "netlify.com",
+        "netlify.app"
+    ]
+}

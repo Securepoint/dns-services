@@ -1,0 +1,10 @@
+{
+    "name": "Okta",
+    "description": {
+        "en": "Identity and access management platform providing secure single sign-on, multi-factor authentication, and user provisioning for enterprises.",
+        "de": "Identitäts- und Zugriffsverwaltungsplattform, die sicheres Single Sign-On, Multi-Faktor-Authentifizierung und Benutzerbereitstellung für Unternehmen bietet."
+    },
+    "domains": [
+        "okta.com"
+    ]
+}

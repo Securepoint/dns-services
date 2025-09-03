@@ -1,0 +1,10 @@
+{
+    "name": "Adobe Creative Cloud",
+    "description": {
+        "en": "Adobe's suite of creative software applications including Photoshop, Illustrator, and other design tools.",
+        "de": "Adobes Suite von kreativen Softwareanwendungen einschließlich Photoshop, Illustrator und anderen Design-Tools."
+    },
+    "domains": [
+        "adobe.com"
+    ]
+}

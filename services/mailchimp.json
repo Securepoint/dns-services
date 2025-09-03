@@ -1,0 +1,12 @@
+{
+    "name": "Mailchimp",
+    "description": {
+        "en": "Email marketing and automation platform for businesses to create, send, and analyze email campaigns.",
+        "de": "E-Mail-Marketing- und Automatisierungsplattform für Unternehmen zum Erstellen, Senden und Analysieren von E-Mail-Kampagnen."
+    },
+    "domains": [
+        "mailchimp.com",
+        "list-manage.com",
+        "mcusercontent.com"
+    ]
+}

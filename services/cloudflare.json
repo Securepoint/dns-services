@@ -1,0 +1,10 @@
+{
+    "name": "Cloudflare",
+    "description": {
+        "en": "A web infrastructure and website security company providing content delivery network services, DDoS mitigation, and DNS services.",
+        "de": "Ein Web-Infrastruktur- und Website-Sicherheitsunternehmen, das Content Delivery Network-Dienste, DDoS-Schutz und DNS-Dienste anbietet."
+    },
+    "domains": [
+        "cloudflare.com"
+    ]
+}

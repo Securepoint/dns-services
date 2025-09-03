@@ -1,0 +1,11 @@
+{
+    "name": "QuickBooks",
+    "description": {
+        "en": "Accounting software suite for small and medium-sized businesses providing bookkeeping, invoicing, and financial management tools.",
+        "de": "Buchhaltungssoftware-Suite für kleine und mittlere Unternehmen mit Buchführung, Rechnungsstellung und Finanzverwaltungstools."
+    },
+    "domains": [
+        "quickbooks.intuit.com",
+        "intuit.com"
+    ]
+}

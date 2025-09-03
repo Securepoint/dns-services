@@ -1,0 +1,10 @@
+{
+    "name": "Stripe",
+    "description": {
+        "en": "Online payment processing platform for internet businesses, handling transactions and financial services.",
+        "de": "Online-Zahlungsabwicklungsplattform für Internetunternehmen, die Transaktionen und Finanzdienstleistungen abwickelt."
+    },
+    "domains": [
+        "stripe.com"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Udemy",
+    "description": {
+        "en": "An online learning platform that offers courses on a wide variety of topics taught by expert instructors.",
+        "de": "Eine Online-Lernplattform, die Kurse zu einer Vielzahl von Themen anbietet, die von Experten unterrichtet werden."
+    },
+    "domains": [
+        "udemy.com"
+    ]
+}

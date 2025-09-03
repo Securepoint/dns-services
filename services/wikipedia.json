@@ -1,0 +1,10 @@
+{
+    "name": "Wikipedia",
+    "description": {
+        "en": "A free online encyclopedia that anyone can edit, providing information on a vast array of topics.",
+        "de": "Eine kostenlose Online-Enzyklopädie, die jeder bearbeiten kann und Informationen zu einer Vielzahl von Themen bietet."
+    },
+    "domains": [
+        "wikipedia.org"
+    ]
+}

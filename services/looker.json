@@ -1,0 +1,10 @@
+{
+    "name": "Looker",
+    "description": {
+        "en": "Business intelligence and data platform that helps companies explore, analyze, and share real-time business analytics.",
+        "de": "Business Intelligence- und Datenplattform, die Unternehmen dabei hilft, Echtzeit-Business-Analytics zu erkunden, zu analysieren und zu teilen."
+    },
+    "domains": [
+        "looker.com"
+    ]
+}

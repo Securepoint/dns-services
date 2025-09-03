@@ -1,0 +1,10 @@
+{
+    "name": "Linode",
+    "description": {
+        "en": "Cloud hosting provider offering virtual private servers, managed Kubernetes, and cloud infrastructure services.",
+        "de": "Cloud-Hosting-Anbieter, der virtuelle private Server, verwaltetes Kubernetes und Cloud-Infrastrukturdienste anbietet."
+    },
+    "domains": [
+        "linode.com"
+    ]
+}

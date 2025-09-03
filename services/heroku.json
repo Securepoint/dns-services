@@ -1,0 +1,10 @@
+{
+    "name": "Heroku",
+    "description": {
+        "en": "A cloud platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+        "de": "Eine Cloud-Plattform als Service (PaaS), die es Entwicklern ermöglicht, Anwendungen vollständig in der Cloud zu erstellen, auszuführen und zu betreiben."
+    },
+    "domains": [
+        "heroku.com"
+    ]
+}

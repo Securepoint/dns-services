@@ -1,0 +1,10 @@
+{
+    "name": "Tableau",
+    "description": {
+        "en": "Business intelligence and analytics platform that helps organizations visualize and understand their data through interactive dashboards.",
+        "de": "Business Intelligence- und Analyse-Plattform, die Organisationen dabei hilft, ihre Daten durch interaktive Dashboards zu visualisieren und zu verstehen."
+    },
+    "domains": [
+        "tableau.com"
+    ]
+}

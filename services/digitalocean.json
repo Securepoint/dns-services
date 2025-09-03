@@ -1,0 +1,10 @@
+{
+    "name": "DigitalOcean",
+    "description": {
+        "en": "Cloud infrastructure provider offering virtual private servers, managed databases, and other cloud services for developers.",
+        "de": "Cloud-Infrastruktur-Anbieter, der virtuelle private Server, verwaltete Datenbanken und andere Cloud-Services für Entwickler anbietet."
+    },
+    "domains": [
+        "digitalocean.com"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "ByteDance",
+    "description": {
+        "en": "Chinese technology company known for TikTok and other social media and content platforms.",
+        "de": "Chinesisches Technologieunternehmen bekannt für TikTok und andere Social Media- und Content-Plattformen."
+    },
+    "domains": [
+        "bytedance.com",
+        "tiktokcdn.com",
+        "muscdn.com",
+        "musical.ly"
+    ]
+}

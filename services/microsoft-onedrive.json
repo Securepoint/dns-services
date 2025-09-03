@@ -1,0 +1,11 @@
+{
+    "name": "Microsoft OneDrive",
+    "description": {
+        "en": "Microsoft's cloud storage service that allows users to store, sync, and share files across devices.",
+        "de": "Microsofts Cloud-Speicherdienst, mit dem Benutzer Dateien geräteübergreifend speichern, synchronisieren und teilen können."
+    },
+    "domains": [
+        "onedrive.live.com",
+        "onedrive.com"
+    ]
+}

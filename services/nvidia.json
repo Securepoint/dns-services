@@ -1,0 +1,10 @@
+{
+    "name": "NVIDIA",
+    "description": {
+        "en": "Technology company specializing in graphics processing units, artificial intelligence, and accelerated computing platforms.",
+        "de": "Technologieunternehmen spezialisiert auf Grafikprozessoren, künstliche Intelligenz und beschleunigte Computing-Plattformen."
+    },
+    "domains": [
+        "nvidia.com"
+    ]
+}

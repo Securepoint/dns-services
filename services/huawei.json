@@ -1,0 +1,10 @@
+{
+    "name": "Huawei",
+    "description": {
+        "en": "Technology company providing telecommunications equipment, smartphones, and enterprise networking solutions.",
+        "de": "Technologieunternehmen, das Telekommunikationsausrüstung, Smartphones und Enterprise-Netzwerklösungen anbietet."
+    },
+    "domains": [
+        "huawei.com"
+    ]
+}

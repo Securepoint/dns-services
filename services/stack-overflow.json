@@ -1,0 +1,14 @@
+{
+    "name": "Stack Overflow",
+    "description": {
+        "en": "A question and answer site for programmers and developers to share knowledge and solve coding problems.",
+        "de": "Eine Frage-und-Antwort-Website für Programmierer und Entwickler zum Teilen von Wissen und Lösen von Programmierproblemen."
+    },
+    "domains": [
+        "stackoverflow.com",
+        "stackexchange.com",
+        "superuser.com",
+        "serverfault.com",
+        "askubuntu.com"
+    ]
+}

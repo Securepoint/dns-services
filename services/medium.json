@@ -1,0 +1,10 @@
+{
+    "name": "Medium",
+    "description": {
+        "en": "An online publishing platform where writers can share articles, stories, and ideas on various topics.",
+        "de": "Eine Online-Publishing-Plattform, auf der Autoren Artikel, Geschichten und Ideen zu verschiedenen Themen teilen können."
+    },
+    "domains": [
+        "medium.com"
+    ]
+}

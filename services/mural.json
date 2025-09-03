@@ -1,0 +1,10 @@
+{
+    "name": "Mural",
+    "description": {
+        "en": "Digital workspace for visual collaboration, enabling teams to think and collaborate visually to solve important problems.",
+        "de": "Digitaler Arbeitsbereich für visuelle Zusammenarbeit, der Teams ermöglicht, visuell zu denken und zusammenzuarbeiten, um wichtige Probleme zu lösen."
+    },
+    "domains": [
+        "mural.co"
+    ]
+}

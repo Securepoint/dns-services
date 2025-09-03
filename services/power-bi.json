@@ -1,0 +1,11 @@
+{
+    "name": "Power BI",
+    "description": {
+        "en": "Microsoft's business analytics solution that provides interactive visualizations and business intelligence capabilities with self-service analytics.",
+        "de": "Microsofts Business Analytics-Lösung, die interaktive Visualisierungen und Business Intelligence-Funktionen mit Self-Service-Analysen bietet."
+    },
+    "domains": [
+        "powerbi.microsoft.com",
+        "app.powerbi.com"
+    ]
+}

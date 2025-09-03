@@ -1,0 +1,11 @@
+{
+    "name": "Vercel",
+    "description": {
+        "en": "Cloud platform for static sites and serverless functions, optimized for frontend frameworks and developer experience.",
+        "de": "Cloud-Plattform für statische Websites und serverlose Funktionen, optimiert für Frontend-Frameworks und Entwicklererfahrung."
+    },
+    "domains": [
+        "vercel.com",
+        "vercel.app"
+    ]
+}

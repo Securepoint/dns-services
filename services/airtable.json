@@ -1,0 +1,10 @@
+{
+    "name": "Airtable",
+    "description": {
+        "en": "Cloud-based platform that combines spreadsheet functionality with database capabilities for organizing and collaborating on data.",
+        "de": "Cloud-basierte Plattform, die Tabellenkalkulations-Funktionalität mit Datenbank-Fähigkeiten zur Organisation und Zusammenarbeit bei Daten kombiniert."
+    },
+    "domains": [
+        "airtable.com"
+    ]
+}

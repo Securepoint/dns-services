@@ -1,0 +1,10 @@
+{
+    "name": "Workday",
+    "description": {
+        "en": "Enterprise cloud applications for finance and human resources, providing HR management, payroll, and financial planning solutions.",
+        "de": "Enterprise-Cloud-Anwendungen für Finanzen und Personalwesen, die HR-Management, Gehaltsabrechnung und Finanzplanungslösungen bieten."
+    },
+    "domains": [
+        "workday.com"
+    ]
+}

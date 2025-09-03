@@ -1,0 +1,10 @@
+{
+    "name": "VMware",
+    "description": {
+        "en": "Cloud computing and virtualization technology company providing software-defined data center solutions.",
+        "de": "Cloud-Computing- und Virtualisierungstechnologie-Unternehmen, das softwaredefinierte Rechenzentrumlösungen anbietet."
+    },
+    "domains": [
+        "vmware.com"
+    ]
+}

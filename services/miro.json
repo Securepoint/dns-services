@@ -1,0 +1,10 @@
+{
+    "name": "Miro",
+    "description": {
+        "en": "Online collaborative whiteboard platform for teams to brainstorm, plan, and work together visually.",
+        "de": "Online-Kollaborations-Whiteboard-Plattform für Teams zum Brainstorming, Planen und visuellen Zusammenarbeiten."
+    },
+    "domains": [
+        "miro.com"
+    ]
+}

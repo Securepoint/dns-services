@@ -1,0 +1,10 @@
+{
+    "name": "Auth0",
+    "description": {
+        "en": "Identity platform for application builders providing authentication and authorization services for web and mobile applications.",
+        "de": "Identitätsplattform für Anwendungsentwickler, die Authentifizierungs- und Autorisierungsdienste für Web- und mobile Anwendungen bereitstellt."
+    },
+    "domains": [
+        "auth0.com"
+    ]
+}

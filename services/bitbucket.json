@@ -1,0 +1,11 @@
+{
+    "name": "Bitbucket",
+    "description": {
+        "en": "A Git-based code hosting service that provides source code management and collaboration tools for development teams.",
+        "de": "Ein Git-basierter Code-Hosting-Service, der Quellcode-Management und Collaboration-Tools für Entwicklungsteams bereitstellt."
+    },
+    "domains": [
+        "bitbucket.org",
+        "bitbucket.com"
+    ]
+}

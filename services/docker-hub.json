@@ -1,0 +1,10 @@
+{
+    "name": "Docker Hub",
+    "description": {
+        "en": "A cloud-based registry service for sharing application containers and automating workflows in containerized applications.",
+        "de": "Ein cloudbasierter Registry-Service zum Teilen von Anwendungscontainern und Automatisieren von Workflows in containerisierten Anwendungen."
+    },
+    "domains": [
+        "docker.com"
+    ]
+}

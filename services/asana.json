@@ -1,0 +1,10 @@
+{
+    "name": "Asana",
+    "description": {
+        "en": "Project management and team collaboration tool that helps teams organize, track, and manage their work.",
+        "de": "Projektmanagement- und Team-Kollaborationstool, das Teams dabei hilft, ihre Arbeit zu organisieren, zu verfolgen und zu verwalten."
+    },
+    "domains": [
+        "asana.com"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "SAP",
+    "description": {
+        "en": "Enterprise software company specializing in business management software and enterprise resource planning solutions.",
+        "de": "Enterprise-Software-Unternehmen spezialisiert auf Business-Management-Software und Enterprise Resource Planning-Lösungen."
+    },
+    "domains": [
+        "sap.com"
+    ]
+}

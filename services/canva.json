@@ -1,0 +1,10 @@
+{
+    "name": "Canva",
+    "description": {
+        "en": "An online graphic design platform that allows users to create visual content including presentations, social media posts, and marketing materials.",
+        "de": "Eine Online-Grafikdesign-Plattform, mit der Benutzer visuelle Inhalte wie Präsentationen, Social-Media-Beiträge und Marketingmaterialien erstellen können."
+    },
+    "domains": [
+        "canva.com"
+    ]
+}

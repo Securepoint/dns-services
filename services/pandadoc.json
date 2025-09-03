@@ -1,0 +1,10 @@
+{
+    "name": "PandaDoc",
+    "description": {
+        "en": "Document automation platform that streamlines the creation, delivery, and e-signature of sales proposals, contracts, and agreements.",
+        "de": "Dokumentenautomatisierungsplattform, die die Erstellung, Zustellung und E-Signatur von Verkaufsvorschlägen, Verträgen und Vereinbarungen optimiert."
+    },
+    "domains": [
+        "pandadoc.com"
+    ]
+}

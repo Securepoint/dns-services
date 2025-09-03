@@ -1,8 +1,8 @@
 {
     "name": "Midjourney",
     "description": {
-        "en": "An AI model",
-        "de": "Ein KI-Modell"
+        "en": "An AI model.",
+        "de": "Ein KI-Modell."
     },
     "domains": [
         "midjourney.com"

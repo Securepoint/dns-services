@@ -1,8 +1,8 @@
 {
     "name": "Dailymotion",
     "description": {
-        "en": "A video-sharing platform",
-        "de": "Eine Video-Sharing-Plattform"
+        "en": "A video-sharing platform.",
+        "de": "Eine Video-Sharing-Plattform."
     },
     "domains": [
         "dailymotion.com",

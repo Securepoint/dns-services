@@ -1,8 +1,8 @@
 {
     "name": "Blizzard",
     "description": {
-        "en": "A video game developer and publisher known for titles like World of Warcraft and Overwatch",
-        "de": "Ein Videospielentwickler und -verleger, bekannt für Titel wie World of Warcraft und Overwatch"
+        "en": "A video game developer and publisher known for titles like World of Warcraft and Overwatch.",
+        "de": "Ein Videospielentwickler und -verleger, bekannt für Titel wie World of Warcraft und Overwatch."
     },
     "domains": [
         "battle.net",

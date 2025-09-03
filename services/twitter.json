@@ -1,8 +1,8 @@
 {
     "name": "Twitter (X)",
     "description": {
-        "en": "A microblogging platform for sharing short messages and updates",
-        "de": "Eine Microblogging-Plattform zum Teilen von kurzen Nachrichten und Updates"
+        "en": "A microblogging platform for sharing short messages and updates.",
+        "de": "Eine Microblogging-Plattform zum Teilen von kurzen Nachrichten und Updates."
     },
     "domains": [
         "ads-twitter.com",

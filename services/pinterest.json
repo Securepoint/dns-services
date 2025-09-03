@@ -1,8 +1,8 @@
 {
     "name": "Pinterest",
     "description": {
-        "en": "A social media platform for sharing and discovering new interests",
-        "de": "Eine Social-Media-Plattform zum Teilen und Entdecken neuer Interessen"
+        "en": "A social media platform for sharing and discovering new interests.",
+        "de": "Eine Social-Media-Plattform zum Teilen und Entdecken neuer Interessen."
     },
     "domains": [
         "pin.it",

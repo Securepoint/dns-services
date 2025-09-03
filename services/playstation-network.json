@@ -1,8 +1,8 @@
 {
     "name": "PlayStation Network",
     "description": {
-        "en": "A gaming and digital media delivery service",
-        "de": "Ein Dienst für Spiele und digitale Medien"
+        "en": "A gaming and digital media delivery service.",
+        "de": "Ein Dienst für Spiele und digitale Medien."
     },
     "domains": [
         "playstation.net"

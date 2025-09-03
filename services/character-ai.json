@@ -1,8 +1,8 @@
 {
     "name": "Character AI",
     "description": {
-        "en": "An AI model",
-        "de": "Ein KI-Modell"
+        "en": "An AI model.",
+        "de": "Ein KI-Modell."
     },
     "domains": [
         "character.ai"

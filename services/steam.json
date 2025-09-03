@@ -1,8 +1,8 @@
 {
     "name": "Steam",
     "description": {
-        "en": "A digital distribution platform for video games",
-        "de": "Eine digitale Vertriebsplattform für Videospiele"
+        "en": "A digital distribution platform for video games.",
+        "de": "Eine digitale Vertriebsplattform für Videospiele."
     },
     "domains": [
         "poweredbysteam.net",

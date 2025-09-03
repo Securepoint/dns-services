@@ -1,8 +1,8 @@
 {
     "name": "Badoo",
     "description": {
-        "en": "A dating app for connecting people",
-        "de": "Eine Dating-App zum Kennenlernen von Menschen"
+        "en": "A dating app for connecting people.",
+        "de": "Eine Dating-App zum Kennenlernen von Menschen."
     },
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*badoo\\.([a-zA-Z0-9.-]+)$"

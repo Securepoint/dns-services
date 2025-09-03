@@ -1,8 +1,8 @@
 {
     "name": "Spotify",
     "description": {
-        "en": "A music streaming platform",
-        "de": "Eine Musik-Streaming-Plattform"
+        "en": "A music streaming platform.",
+        "de": "Eine Musik-Streaming-Plattform."
     },
     "domains": [
         "audio-ak-spotify-com.akamaized.net",

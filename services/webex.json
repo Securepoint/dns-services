@@ -1,8 +1,8 @@
 {
     "name": "Webex",
     "description": {
-        "en": "A video conferencing service",
-        "de": "Ein Videokonferenzdienst"
+        "en": "A video conferencing service.",
+        "de": "Ein Videokonferenzdienst."
     },
     "patterns": [
         "^([a-zA-Z0-9-]+\\.)*webex\\.([a-zA-Z0-9.-]+)$"

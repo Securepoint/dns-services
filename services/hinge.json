@@ -1,8 +1,8 @@
 {
     "name": "Hinge",
     "description": {
-        "en": "A dating app for connecting people",
-        "de": "Eine Dating-App zum Kennenlernen von Menschen"
+        "en": "A dating app for connecting people.",
+        "de": "Eine Dating-App zum Kennenlernen von Menschen."
     },
     "domains": [
         "hinge.co"

@@ -1,8 +1,8 @@
 {
     "name": "Bluesky",
     "description": {
-        "en": "A social network",
-        "de": "Ein soziales Netzwerk"
+        "en": "A social network.",
+        "de": "Ein soziales Netzwerk."
     },
     "domains": [
         "bsky.app"

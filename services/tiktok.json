@@ -1,8 +1,8 @@
 {
     "name": "TikTok",
     "description": {
-        "en": "A social media platform for sharing short videos",
-        "de": "Eine Social-Media-Plattform zum Teilen von Kurzvideos"
+        "en": "A social media platform for sharing short videos.",
+        "de": "Eine Social-Media-Plattform zum Teilen von Kurzvideos."
     },
     "domains": [
         "muscdn.com",

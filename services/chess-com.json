@@ -1,8 +1,8 @@
 {
     "name": "Chess.com",
     "description": {
-        "en": "A chess platform",
-        "de": "Eine Schachplattform"
+        "en": "A chess platform.",
+        "de": "Eine Schachplattform."
     },
     "domains": [
         "chess.com",

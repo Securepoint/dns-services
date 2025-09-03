@@ -1,8 +1,8 @@
 {
     "name": "Roblox",
     "description": {
-        "en": "An online platform that allows users to create and play games created by other users",
-        "de": "Eine Online-Plattform, auf der Nutzer Spiele erstellen und spielen können, die von anderen Nutzern erstellt wurden"
+        "en": "An online platform that allows users to create and play games created by other users.",
+        "de": "Eine Online-Plattform, auf der Nutzer Spiele erstellen und spielen können, die von anderen Nutzern erstellt wurden."
     },
     "domains": [
         "rbxcdn.com",

@@ -1,8 +1,8 @@
 {
     "name": "Claude",
     "description": {
-        "en": "An AI language model",
-        "de": "Ein KI-Sprachmodell"
+        "en": "An AI language model.",
+        "de": "Ein KI-Sprachmodell."
     },
     "domains": [
         "claude.ai"

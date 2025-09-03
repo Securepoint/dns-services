@@ -1,8 +1,8 @@
 {
     "name": "Xing",
     "description": {
-        "en": "A professional networking platform",
-        "de": "Eine professionelle Netzwerkplattform"
+        "en": "A professional networking platform.",
+        "de": "Eine professionelle Netzwerkplattform."
     },
     "domains": [
         "xing.com"

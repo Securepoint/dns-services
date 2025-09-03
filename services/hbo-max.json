@@ -1,8 +1,8 @@
 {
     "name": "HBO Max",
     "description": {
-        "en": "A video streaming platform",
-        "de": "Eine Video-Streaming-Plattform"
+        "en": "A video streaming platform.",
+        "de": "Eine Video-Streaming-Plattform."
     },
     "domains": [
         "hbomax.com",

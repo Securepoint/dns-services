@@ -1,8 +1,8 @@
 {
     "name": "eBay",
     "description": {
-        "en": "An online auction and shopping website",
-        "de": "Eine Online-Auktions- und Shopping-Website"
+        "en": "An online auction and shopping website.",
+        "de": "Eine Online-Auktions- und Shopping-Website."
     },
     "domains": [
         "ebay-us.com",

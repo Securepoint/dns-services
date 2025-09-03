@@ -1,8 +1,8 @@
 {
     "name": "Telegram",
     "description": {
-        "en": "A cloud-based instant messaging app",
-        "de": "Eine cloudbasierte Instant-Messaging-App"
+        "en": "A cloud-based instant messaging app.",
+        "de": "Eine cloudbasierte Instant-Messaging-App."
     },
     "domains": [
         "t.me",

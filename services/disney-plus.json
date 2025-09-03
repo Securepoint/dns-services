@@ -1,8 +1,8 @@
 {
     "name": "Disney+",
     "description": {
-        "en": "A video streaming platform",
-        "de": "Eine Video-Streaming-Plattform"
+        "en": "A video streaming platform.",
+        "de": "Eine Video-Streaming-Plattform."
     },
     "domains": [
         "disney-plus.net",

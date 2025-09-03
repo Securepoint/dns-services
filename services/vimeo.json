@@ -1,8 +1,8 @@
 {
     "name": "Vimeo",
     "description": {
-        "en": "A video hosting platform",
-        "de": "Eine Video-Hosting-Plattform"
+        "en": "A video hosting platform.",
+        "de": "Eine Video-Hosting-Plattform."
     },
     "domains": [
         "vimeo-video.map.fastly.net",

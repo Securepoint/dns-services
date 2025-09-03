@@ -1,8 +1,8 @@
 {
     "name": "Perplexity",
     "description": {
-        "en": "An AI language model",
-        "de": "Ein KI-Sprachmodell"
+        "en": "An AI language model.",
+        "de": "Ein KI-Sprachmodell."
     },
     "domains": [
         "perplexity.ai"

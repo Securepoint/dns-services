@@ -1,8 +1,8 @@
 {
     "name": "Mastodon",
     "description": {
-        "en": "A decentralized social media platform",
-        "de": "Eine dezentralisierte Social-Media-Plattform"
+        "en": "A decentralized social media platform.",
+        "de": "Eine dezentralisierte Social-Media-Plattform."
     },
     "domains": [
         "alive.bar",

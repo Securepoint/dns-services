@@ -1,8 +1,8 @@
 {
     "name": "Snapchat",
     "description": {
-        "en": "A multimedia messaging app",
-        "de": "Eine Multimedia-Messaging-App"
+        "en": "A multimedia messaging app.",
+        "de": "Eine Multimedia-Messaging-App."
     },
     "domains": [
         "feelinsonice-hrd.appspot.com",

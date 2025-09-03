@@ -1,8 +1,8 @@
 {
     "name": "Xbox Live",
     "description": {
-        "en": "An online gaming service for Xbox consoles",
-        "de": "Ein Online-Gaming-Dienst für Xbox-Konsolen"
+        "en": "An online gaming service for Xbox consoles.",
+        "de": "Ein Online-Gaming-Dienst für Xbox-Konsolen."
     },
     "domains": [
         "xbox.com",

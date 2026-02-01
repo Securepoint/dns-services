@@ -1,0 +1,10 @@
+{
+    "name": "Bing",
+    "description": {
+        "en": "A search engine developed by Microsoft.",
+        "de": "Eine von Microsoft entwickelte Suchmaschine."
+    },
+    "patterns": [
+        "^([a-zA-Z0-9-]+\\.)*bing\\.([a-zA-Z0-9.-]+)$"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Apple",
+    "description": {
+        "en": "A technology company known for its consumer electronics.",
+        "de": "Ein Technologieunternehmen, das für seine Unterhaltungselektronik bekannt ist."
+    },
+    "patterns": [
+        "^([a-zA-Z0-9-]+\\.)*apple\\.([a-zA-Z0-9.-]+)$"
+    ]
+}

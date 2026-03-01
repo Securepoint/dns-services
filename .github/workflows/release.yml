@@ -1,0 +1,48 @@
+name: Build and Release
+
+on:
+    push:
+        branches:
+            - master
+    workflow_dispatch:
+
+jobs:
+    build-and-release:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v5
+              with:
+                  fetch-depth: 0
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "20"
+
+            - name: Compile Services
+              run: node compile.js
+
+            - name: Upload Compiled Services
+              uses: actions/upload-artifact@v4
+              with:
+                  name: services-compiled
+                  path: services.json
+                  retention-days: 90
+
+            - name: Create Release and Upload Asset
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              run: |
+                  VERSION=$(date +%Y%m%d-%H%M%S)
+                  TAG_NAME="release-${VERSION}"
+
+                  echo "Creating release ${TAG_NAME}"
+
+                  gh release create "${TAG_NAME}" \
+                    --title "Services ${VERSION}" \
+                    --notes "Combined service definitions" \
+                    --latest \
+                    services.json

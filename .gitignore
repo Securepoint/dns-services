@@ -1,0 +1,13 @@
+# Compiled output
+services.json
+
+# Node modules (if needed in future)
+node_modules/
+
+# IDE
+.DS_Store
+.vscode/
+.idea/
+
+# OS
+Thumbs.db

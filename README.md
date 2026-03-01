@@ -17,11 +17,33 @@ This repository contains JSON definitions for various services and their associa
 dns-services/
 ├── README.md
 ├── schema.json         # JSON schema defining the service structure
+├── compile.js          # Script to compile all services into a single JSON file
 └── services/           # Directory containing all service definitions
     ├── service1.json
     ├── service2.json
     └── ...
 ```
+
+## Compiled Services
+
+All individual service files are automatically compiled into a single `services.json` file through the CI/CD pipeline. This compiled file contains all services in a single JSON object where each key is the filename (without `.json` extension).
+
+### Downloading the Compiled File
+
+The compiled `services.json` file is available in two ways:
+
+1. **GitHub Releases**: Automatically published with each push to master branch
+2. **GitHub Actions Artifacts**: Available for all CI runs (including pull requests)
+
+### Local Compilation
+
+To compile the services locally:
+
+```bash
+node compile.js
+```
+
+This will generate a `services.json` file in the root directory containing all services.
 
 ## Adding New Services
 

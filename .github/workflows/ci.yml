@@ -9,7 +9,7 @@ on:
             - master
 
 jobs:
-    ci:
+    validate:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout

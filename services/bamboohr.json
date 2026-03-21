@@ -1,5 +1,6 @@
 {
     "name": "BambooHR",
+    "group": "business",
     "description": {
         "en": "Human resources software providing HR management, employee records, performance tracking, and recruiting tools for small and medium businesses.",
         "de": "Personalverwaltungssoftware, die HR-Management, Mitarbeiterakten, Leistungsverfolgung und Recruiting-Tools für kleine und mittlere Unternehmen bietet."

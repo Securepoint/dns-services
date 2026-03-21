@@ -1,5 +1,6 @@
 {
     "name": "Messenger",
+    "group": "messenger",
     "description": {
         "en": "A messaging platform developed by Facebook.",
         "de": "Eine von Facebook entwickelte Messaging-Plattform."

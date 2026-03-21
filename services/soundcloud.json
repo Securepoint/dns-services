@@ -1,0 +1,12 @@
+{
+    "name": "SoundCloud",
+    "group": "streaming",
+    "description": {
+        "en": "A music and audio streaming platform.",
+        "de": "Eine Musik- und Audio-Streaming-Plattform."
+    },
+    "domains": [
+        "sndcdn.com",
+        "soundcloud.com"
+    ]
+}

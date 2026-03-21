@@ -1,0 +1,15 @@
+{
+    "name": "Xiaohongshu",
+    "group": "shopping",
+    "description": {
+        "en": "A Chinese social media and e-commerce platform.",
+        "de": "Eine chinesische Social-Media- und E-Commerce-Plattform."
+    },
+    "domains": [
+        "xhscdn.com",
+        "xhscdn.net",
+        "xiaohongshu.com",
+        "xiaohongshu.com.my",
+        "xiaohongshu.net"
+    ]
+}

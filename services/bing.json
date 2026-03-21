@@ -1,5 +1,6 @@
 {
     "name": "Bing",
+    "group": "software",
     "description": {
         "en": "A search engine developed by Microsoft.",
         "de": "Eine von Microsoft entwickelte Suchmaschine."

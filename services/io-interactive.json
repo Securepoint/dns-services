@@ -1,0 +1,13 @@
+{
+    "name": "IO Interactive",
+    "group": "gaming",
+    "description": {
+        "en": "A video game developer.",
+        "de": "Ein Videospiel-Entwickler."
+    },
+    "domains": [
+        "hitman.com",
+        "hitman.io",
+        "ioi.dk"
+    ]
+}

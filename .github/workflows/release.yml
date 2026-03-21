@@ -17,13 +17,13 @@ jobs:
               with:
                   fetch-depth: 0
 
-            - name: Setup Node.js
-              uses: actions/setup-node@v4
+            - name: Setup Go
+              uses: actions/setup-go@v5
               with:
-                  node-version: "20"
+                  go-version-file: go.mod
 
             - name: Compile Services
-              run: node compile.js
+              run: go run main.go
 
             - name: Upload Compiled Services
               uses: actions/upload-artifact@v4

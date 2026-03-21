@@ -1,0 +1,13 @@
+{
+    "name": "Wizz",
+    "group": "dating",
+    "description": {
+        "en": "A social media app for teens.",
+        "de": "Eine Social-Media-App für Jugendliche."
+    },
+    "domains": [
+        "getwizz.io",
+        "wizz.chat",
+        "wizzapp.com"
+    ]
+}

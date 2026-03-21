@@ -1,0 +1,14 @@
+{
+    "name": "Odysee",
+    "group": "social",
+    "description": {
+        "en": "A decentralized video sharing platform.",
+        "de": "Eine dezentrale Video-Sharing-Plattform."
+    },
+    "domains": [
+        "odycdn.com",
+        "odysee.com",
+        "odysee.live",
+        "odysee.tv"
+    ]
+}

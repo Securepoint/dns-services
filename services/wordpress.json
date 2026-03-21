@@ -1,5 +1,6 @@
 {
     "name": "WordPress",
+    "group": "software",
     "description": {
         "en": "A popular content management system and website creation platform used for blogs and websites.",
         "de": "Ein beliebtes Content-Management-System und Website-Erstellungsplattform für Blogs und Websites."

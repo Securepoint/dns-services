@@ -1,5 +1,6 @@
 {
     "name": "Vimeo",
+    "group": "streaming",
     "description": {
         "en": "A video hosting platform.",
         "de": "Eine Video-Hosting-Plattform."

@@ -1,0 +1,11 @@
+{
+    "name": "YY",
+    "group": "streaming",
+    "description": {
+        "en": "A Chinese live streaming platform.",
+        "de": "Eine chinesische Live-Streaming-Plattform."
+    },
+    "domains": [
+        "yy.com"
+    ]
+}

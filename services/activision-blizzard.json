@@ -1,0 +1,16 @@
+{
+    "name": "Activision Blizzard",
+    "group": "gaming",
+    "description": {
+        "en": "A major video game publisher and developer.",
+        "de": "Ein großer Videospiel-Publisher und -Entwickler."
+    },
+    "domains": [
+        "activision.com",
+        "activisionblizzard.com",
+        "callofduty.com",
+        "callofdutyleague.com",
+        "codmwest.com",
+        "demonware.net"
+    ]
+}

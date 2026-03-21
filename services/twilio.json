@@ -1,5 +1,6 @@
 {
     "name": "Twilio",
+    "group": "developer",
     "description": {
         "en": "Cloud communications platform providing APIs for messaging, voice, and video communications.",
         "de": "Cloud-Kommunikationsplattform, die APIs für Messaging, Sprach- und Videokommunikation bereitstellt."

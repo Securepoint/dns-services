@@ -1,0 +1,12 @@
+{
+    "name": "Deezer",
+    "group": "streaming",
+    "description": {
+        "en": "A music streaming service.",
+        "de": "Ein Musik-Streaming-Dienst."
+    },
+    "domains": [
+        "deezer.com",
+        "dzcdn.net"
+    ]
+}

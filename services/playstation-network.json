@@ -1,5 +1,6 @@
 {
     "name": "PlayStation Network",
+    "group": "gaming",
     "description": {
         "en": "A gaming and digital media delivery service.",
         "de": "Ein Dienst für Spiele und digitale Medien."

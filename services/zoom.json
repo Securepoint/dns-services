@@ -1,5 +1,6 @@
 {
     "name": "Zoom",
+    "group": "messenger",
     "description": {
         "en": "A leading video conferencing solution for virtual meetings, webinars, online collaboration, and remote work worldwide.",
         "de": "Eine führende Videokonferenzlösung für virtuelle Meetings, Webinare, Online-Zusammenarbeit und weltweites Remote-Arbeiten."

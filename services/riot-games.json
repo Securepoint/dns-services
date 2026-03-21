@@ -1,0 +1,16 @@
+{
+    "name": "Riot Games",
+    "group": "gaming",
+    "description": {
+        "en": "A video game developer and publisher.",
+        "de": "Ein Videospiel-Entwickler und -Publisher."
+    },
+    "domains": [
+        "dradis-prod.rdatasrv.net",
+        "pvp.net",
+        "rgpub.io",
+        "riotcdn.com",
+        "riotcdn.net",
+        "riotgames.com"
+    ]
+}

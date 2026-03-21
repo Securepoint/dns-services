@@ -1,5 +1,6 @@
 {
     "name": "eBay",
+    "group": "shopping",
     "description": {
         "en": "An online auction and shopping website.",
         "de": "Eine Online-Auktions- und Shopping-Website."

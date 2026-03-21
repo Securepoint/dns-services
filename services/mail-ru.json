@@ -1,0 +1,13 @@
+{
+    "name": "Mail.ru",
+    "group": "social",
+    "description": {
+        "en": "A Russian email and internet service.",
+        "de": "Ein russischer E-Mail- und Internetdienst."
+    },
+    "domains": [
+        "imgsmail.ru",
+        "mail.ru",
+        "mycdn.me"
+    ]
+}

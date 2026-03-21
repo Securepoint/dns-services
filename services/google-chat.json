@@ -1,5 +1,6 @@
 {
     "name": "Google Chat",
+    "group": "messenger",
     "description": {
         "en": "A messaging app.",
         "de": "Eine Messaging-App."

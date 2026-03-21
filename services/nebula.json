@@ -1,0 +1,12 @@
+{
+    "name": "Nebula",
+    "group": "streaming",
+    "description": {
+        "en": "A creator-driven streaming platform.",
+        "de": "Eine von Creatorn betriebene Streaming-Plattform."
+    },
+    "domains": [
+        "nebula.app",
+        "nebula.tv"
+    ]
+}

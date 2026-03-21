@@ -1,0 +1,14 @@
+{
+    "name": "Ubisoft",
+    "group": "gaming",
+    "description": {
+        "en": "A video game developer and publisher.",
+        "de": "Ein Videospiel-Entwickler und -Publisher."
+    },
+    "domains": [
+        "ubi.com",
+        "ubisoft.com",
+        "ubisoft.org",
+        "ubisoftconnect.com"
+    ]
+}

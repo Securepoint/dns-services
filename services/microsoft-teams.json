@@ -1,5 +1,6 @@
 {
     "name": "Microsoft Teams",
+    "group": "messenger",
     "description": {
         "en": "A collaboration platform that integrates with Microsoft 365",
         "de": "Eine Kollaborationsplattform, die mit Microsoft 365 integriert ist"

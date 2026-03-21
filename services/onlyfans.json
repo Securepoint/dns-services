@@ -1,0 +1,11 @@
+{
+    "name": "OnlyFans",
+    "group": "social",
+    "description": {
+        "en": "A subscription-based content platform.",
+        "de": "Eine Plattform für Inhalte auf Abonnementbasis."
+    },
+    "domains": [
+        "onlyfans.com"
+    ]
+}

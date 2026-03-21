@@ -1,5 +1,6 @@
 {
     "name": "Apple",
+    "group": "software",
     "description": {
         "en": "A technology company known for its consumer electronics.",
         "de": "Ein Technologieunternehmen, das für seine Unterhaltungselektronik bekannt ist."

@@ -1,0 +1,11 @@
+{
+    "name": "Warner Bros. Games",
+    "group": "gaming",
+    "description": {
+        "en": "The gaming division of Warner Bros.",
+        "de": "Die Gaming-Sparte von Warner Bros."
+    },
+    "domains": [
+        "warnerbrosgames.com"
+    ]
+}

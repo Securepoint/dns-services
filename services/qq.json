@@ -1,0 +1,12 @@
+{
+    "name": "QQ",
+    "group": "streaming",
+    "description": {
+        "en": "A Chinese messaging and social media platform.",
+        "de": "Eine chinesische Messaging- und Social-Media-Plattform."
+    },
+    "domains": [
+        "qq-video.cdn-go.cn",
+        "url.cn"
+    ]
+}

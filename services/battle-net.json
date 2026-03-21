@@ -1,0 +1,14 @@
+{
+    "name": "Battle.net",
+    "group": "gaming",
+    "description": {
+        "en": "Blizzard's gaming platform and launcher.",
+        "de": "Blizzards Gaming-Plattform und Launcher."
+    },
+    "domains": [
+        "battle.net",
+        "battlenet.com.cn",
+        "bnet.163.com",
+        "bnet.cn"
+    ]
+}

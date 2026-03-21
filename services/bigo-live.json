@@ -1,0 +1,14 @@
+{
+    "name": "Bigo Live",
+    "group": "streaming",
+    "description": {
+        "en": "A live streaming platform.",
+        "de": "Eine Live-Streaming-Plattform."
+    },
+    "domains": [
+        "bigo.sg",
+        "bigo.tv",
+        "bigolive.tv",
+        "bigovideo.tv"
+    ]
+}

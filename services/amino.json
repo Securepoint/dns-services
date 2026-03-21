@@ -1,0 +1,11 @@
+{
+    "name": "Amino",
+    "group": "social",
+    "description": {
+        "en": "A social media platform for communities and fandoms.",
+        "de": "Eine Social-Media-Plattform für Communities und Fandoms."
+    },
+    "domains": [
+        "aminoapps.com"
+    ]
+}

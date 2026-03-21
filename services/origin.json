@@ -1,0 +1,17 @@
+{
+    "name": "Origin",
+    "group": "gaming",
+    "description": {
+        "en": "Electronic Arts' gaming platform.",
+        "de": "Die Gaming-Plattform von Electronic Arts."
+    },
+    "domains": [
+        "accounts.ea.com",
+        "dawngate.com",
+        "eastore.com",
+        "lordofultima.com",
+        "origin.com",
+        "origin.tv",
+        "signin.ea.com"
+    ]
+}

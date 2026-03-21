@@ -1,0 +1,16 @@
+{
+    "name": "Spotify Video",
+    "group": "streaming",
+    "description": {
+        "en": "Spotify's video streaming service.",
+        "de": "Der Video-Streaming-Dienst von Spotify."
+    },
+    "domains": [
+        "eip-ntt.video-ak.cdn.spotify.com.akahost.net",
+        "video-ak.cdn.spotify.com",
+        "video-akpcw-cdn-spotify-com.akamaized.net",
+        "video-akpcw.spotifycdn.com",
+        "video-akpcw.spotifycdn.com.edgesuite.net",
+        "video-fa.scdn.co"
+    ]
+}

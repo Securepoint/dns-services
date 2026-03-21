@@ -1,0 +1,13 @@
+{
+    "name": "Google Play Store",
+    "group": "software",
+    "description": {
+        "en": "The Google Play Store.",
+        "de": "Der Google Play Store."
+    },
+    "domains": [
+        "play-fe.googleapis.com",
+        "play-lh.googleusercontent.com",
+        "prod-lt-playstoregatewayadapter-pa.googleapis.com"
+    ]
+}

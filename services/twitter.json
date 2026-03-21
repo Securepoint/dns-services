@@ -1,5 +1,6 @@
 {
     "name": "Twitter (X)",
+    "group": "social",
     "description": {
         "en": "A microblogging platform for sharing short messages and updates.",
         "de": "Eine Microblogging-Plattform zum Teilen von kurzen Nachrichten und Updates."

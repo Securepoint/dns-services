@@ -1,0 +1,14 @@
+{
+    "name": "GOG",
+    "group": "gaming",
+    "description": {
+        "en": "A DRM-free gaming platform.",
+        "de": "Eine DRM-freie Gaming-Plattform."
+    },
+    "domains": [
+        "gog-cdn-lumen.secure2.footprint.net",
+        "gog-statics.com",
+        "gog.com",
+        "gogalaxy.com"
+    ]
+}

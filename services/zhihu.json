@@ -1,0 +1,12 @@
+{
+    "name": "Zhihu",
+    "group": "social",
+    "description": {
+        "en": "A Chinese question-and-answer platform.",
+        "de": "Eine chinesische Frage-und-Antwort-Plattform."
+    },
+    "domains": [
+        "zhihu.com",
+        "zhimg.com"
+    ]
+}

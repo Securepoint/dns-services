@@ -1,5 +1,6 @@
 {
     "name": "Zendesk",
+    "group": "business",
     "description": {
         "en": "Customer service and support platform providing ticketing, knowledge base, and customer engagement tools.",
         "de": "Kundenservice- und Support-Plattform mit Ticketing, Wissensdatenbank und Tools für Kundenbindung."

@@ -1,0 +1,70 @@
+{
+    "ai": {
+        "en": "Artificial Intelligence",
+        "de": "Künstliche Intelligenz"
+    },
+    "cdn": {
+        "en": "Content Delivery Networks",
+        "de": "Content-Delivery-Netzwerke"
+    },
+    "cloud": {
+        "en": "Cloud Services",
+        "de": "Cloud-Dienste"
+    },
+    "dating": {
+        "en": "Dating",
+        "de": "Dating"
+    },
+    "developer": {
+        "en": "Developer Tools",
+        "de": "Entwicklerwerkzeuge"
+    },
+    "education": {
+        "en": "Education",
+        "de": "Bildung"
+    },
+    "finance": {
+        "en": "Finance",
+        "de": "Finanzen"
+    },
+    "gambling": {
+        "en": "Gambling",
+        "de": "Glücksspiel"
+    },
+    "gaming": {
+        "en": "Gaming",
+        "de": "Spiele"
+    },
+    "hosting": {
+        "en": "Hosting & Storage",
+        "de": "Hosting & Speicher"
+    },
+    "business": {
+        "en": "Business & Productivity",
+        "de": "Business & Produktivität"
+    },
+    "messenger": {
+        "en": "Messaging",
+        "de": "Messaging"
+    },
+    "privacy": {
+        "en": "Privacy",
+        "de": "Privatsphäre"
+    },
+    "shopping": {
+        "en": "Shopping",
+        "de": "Einkaufen"
+    },
+    "social": {
+        "en": "Social Networks",
+        "de": "Soziale Netzwerke"
+    },
+    "software": {
+        "en": "Software",
+        "de": "Software"
+    },
+    "streaming": {
+        "en": "Streaming",
+        "de": "Streaming"
+    }
+}

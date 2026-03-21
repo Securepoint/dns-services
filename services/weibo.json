@@ -1,0 +1,17 @@
+{
+    "name": "Weibo",
+    "group": "streaming",
+    "description": {
+        "en": "A Chinese microblogging platform.",
+        "de": "Eine chinesische Microblogging-Plattform."
+    },
+    "domains": [
+        "wbimg.cn",
+        "wbimg.com",
+        "wcdn.cn",
+        "weibo.cn",
+        "weibo.com",
+        "weibo.com.cn",
+        "weibocdn.com"
+    ]
+}

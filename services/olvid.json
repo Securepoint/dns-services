@@ -1,0 +1,12 @@
+{
+    "name": "Olvid",
+    "group": "messenger",
+    "description": {
+        "en": "A secure messaging service.",
+        "de": "Ein sicherer Messaging-Dienst."
+    },
+    "domains": [
+        "olvid-attachment-chunks.s3.eu-west-3.amazonaws.com",
+        "olvid.io"
+    ]
+}

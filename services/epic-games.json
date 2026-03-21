@@ -1,0 +1,14 @@
+{
+    "name": "Epic Games",
+    "group": "gaming",
+    "description": {
+        "en": "A gaming platform and store.",
+        "de": "Eine Gaming-Plattform und ein Store."
+    },
+    "domains": [
+        "eac-cdn.com",
+        "easy.ac",
+        "easyanticheat.net",
+        "epicgames.com"
+    ]
+}

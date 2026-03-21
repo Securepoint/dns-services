@@ -1,0 +1,12 @@
+{
+    "name": "KOOK",
+    "group": "social",
+    "description": {
+        "en": "A Chinese communication platform for gamers.",
+        "de": "Eine chinesische Kommunikationsplattform für Gamer."
+    },
+    "domains": [
+        "kaiheila.cn",
+        "kookapp.cn"
+    ]
+}

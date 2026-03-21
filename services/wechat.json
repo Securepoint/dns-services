@@ -1,0 +1,15 @@
+{
+    "name": "WeChat",
+    "group": "messenger",
+    "description": {
+        "en": "A Chinese messaging and social media app.",
+        "de": "Eine chinesische Messaging- und Social-Media-App."
+    },
+    "domains": [
+        "wechat.com",
+        "weixin.qq.com",
+        "weixin.qq.com.cn",
+        "weixinbridge.com",
+        "wx.qq.com"
+    ]
+}

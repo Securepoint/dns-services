@@ -1,0 +1,12 @@
+{
+    "name": "Lionsgate+",
+    "group": "streaming",
+    "description": {
+        "en": "A streaming service by Lionsgate.",
+        "de": "Ein Streaming-Dienst von Lionsgate."
+    },
+    "domains": [
+        "lionsgateplus.com",
+        "starz.com"
+    ]
+}

@@ -1,5 +1,6 @@
 {
     "name": "Intercom",
+    "group": "business",
     "description": {
         "en": "Customer messaging platform that enables businesses to communicate with customers through chat, email, and automated messages.",
         "de": "Kunden-Messaging-Plattform, die es Unternehmen ermöglicht, mit Kunden über Chat, E-Mail und automatisierte Nachrichten zu kommunizieren."

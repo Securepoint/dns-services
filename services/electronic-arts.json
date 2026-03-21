@@ -1,0 +1,16 @@
+{
+    "name": "Electronic Arts",
+    "group": "gaming",
+    "description": {
+        "en": "A major video game publisher.",
+        "de": "Ein großer Videospiel-Publisher."
+    },
+    "domains": [
+        "ea.com",
+        "eamobile.com",
+        "easports.com",
+        "nearpolar.com",
+        "swtor.com",
+        "tnt-ea.com"
+    ]
+}

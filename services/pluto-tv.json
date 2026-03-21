@@ -1,0 +1,11 @@
+{
+    "name": "Pluto TV",
+    "group": "streaming",
+    "description": {
+        "en": "A free streaming service.",
+        "de": "Ein kostenloser Streaming-Dienst."
+    },
+    "domains": [
+        "pluto.tv"
+    ]
+}

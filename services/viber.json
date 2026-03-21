@@ -1,0 +1,11 @@
+{
+    "name": "Viber",
+    "group": "messenger",
+    "description": {
+        "en": "A messaging and calling app.",
+        "de": "Eine Messaging- und Anruf-App."
+    },
+    "domains": [
+        "viber.com"
+    ]
+}

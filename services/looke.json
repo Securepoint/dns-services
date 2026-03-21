@@ -1,0 +1,12 @@
+{
+    "name": "Looke",
+    "group": "streaming",
+    "description": {
+        "en": "A Brazilian streaming service.",
+        "de": "Ein brasilianischer Streaming-Dienst."
+    },
+    "domains": [
+        "looke.com.br",
+        "ottvs.com.br"
+    ]
+}

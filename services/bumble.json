@@ -1,5 +1,6 @@
 {
     "name": "Bumble",
+    "group": "dating",
     "description": {
         "en": "A dating app for connecting people.",
         "de": "Eine Dating-App zum Kennenlernen von Menschen."

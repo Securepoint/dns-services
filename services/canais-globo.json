@@ -1,0 +1,13 @@
+{
+    "name": "Canais Globo",
+    "group": "streaming",
+    "description": {
+        "en": "Brazilian streaming service by Globo.",
+        "de": "Brasilianischer Streaming-Dienst von Globo."
+    },
+    "domains": [
+        "canaisglobo.globo.com",
+        "globosat.globo.com",
+        "gsatmulti.globo.com"
+    ]
+}

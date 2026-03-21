@@ -1,5 +1,6 @@
 {
     "name": "Xero",
+    "group": "finance",
     "description": {
         "en": "Cloud-based accounting software for small businesses providing invoicing, bank reconciliation, and financial reporting features.",
         "de": "Cloud-basierte Buchhaltungssoftware für kleine Unternehmen mit Rechnungsstellung, Bankabstimmung und Finanzberichterstattung."

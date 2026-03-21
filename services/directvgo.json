@@ -1,0 +1,11 @@
+{
+    "name": "DirecTV Go",
+    "group": "streaming",
+    "description": {
+        "en": "A Latin American streaming service.",
+        "de": "Ein lateinamerikanischer Streaming-Dienst."
+    },
+    "domains": [
+        "directvgo.com"
+    ]
+}

@@ -1,5 +1,6 @@
 {
     "name": "Bluesky",
+    "group": "social",
     "description": {
         "en": "A social network.",
         "de": "Ein soziales Netzwerk."

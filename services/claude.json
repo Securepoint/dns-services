@@ -1,5 +1,6 @@
 {
     "name": "Claude",
+    "group": "ai",
     "description": {
         "en": "An AI language model.",
         "de": "Ein KI-Sprachmodell."

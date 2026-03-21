@@ -1,0 +1,11 @@
+{
+    "name": "Tidal",
+    "group": "streaming",
+    "description": {
+        "en": "A high-fidelity music streaming service.",
+        "de": "Ein Musik-Streaming-Dienst in hoher Qualität."
+    },
+    "domains": [
+        "tidal.com"
+    ]
+}

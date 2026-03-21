@@ -1,5 +1,6 @@
 {
     "name": "Uber",
+    "group": "shopping",
     "description": {
         "en": "A ride-hailing service.",
         "de": "Ein Fahrdienst."

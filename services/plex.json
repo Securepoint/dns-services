@@ -1,0 +1,14 @@
+{
+    "name": "Plex",
+    "group": "streaming",
+    "description": {
+        "en": "A media server and streaming platform.",
+        "de": "Eine Medienserver- und Streaming-Plattform."
+    },
+    "domains": [
+        "plex.bz",
+        "plex.direct",
+        "plex.tv",
+        "plexapp.com"
+    ]
+}

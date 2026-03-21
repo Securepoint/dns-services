@@ -1,5 +1,6 @@
 {
     "name": "Character AI",
+    "group": "ai",
     "description": {
         "en": "An AI model.",
         "de": "Ein KI-Modell."

@@ -1,5 +1,6 @@
 {
     "name": "Airbnb",
+    "group": "shopping",
     "description": {
         "en": "A global online marketplace for booking unique accommodations, apartments, and experiences from local hosts.",
         "de": "Ein weltweiter Online-Marktplatz für die Buchung einzigartiger Unterkünfte, Apartments und Erlebnisse von lokalen Gastgebern."

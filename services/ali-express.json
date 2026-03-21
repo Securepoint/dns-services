@@ -1,5 +1,6 @@
 {
     "name": "AliExpress",
+    "group": "shopping",
     "description": {
         "en": "An online retail service based in China.",
         "de": "Ein Online-Einzelhandelsservice mit Sitz in China."

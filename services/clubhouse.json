@@ -1,5 +1,6 @@
 {
     "name": "Clubhouse",
+    "group": "social",
     "description": {
         "en": "A social audio app for drop-in conversations.",
         "de": "Eine soziale Audio-App für spontane Gespräche."

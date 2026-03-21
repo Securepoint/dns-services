@@ -1,5 +1,6 @@
 {
     "name": "Prime Video",
+    "group": "streaming",
     "description": {
         "en": "A video streaming platform.",
         "de": "Eine Video-Streaming-Plattform."

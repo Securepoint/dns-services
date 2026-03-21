@@ -1,5 +1,6 @@
 {
     "name": "Webex",
+    "group": "messenger",
     "description": {
         "en": "A video conferencing service.",
         "de": "Ein Videokonferenzdienst."

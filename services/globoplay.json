@@ -1,0 +1,14 @@
+{
+    "name": "Globoplay",
+    "group": "streaming",
+    "description": {
+        "en": "A Brazilian streaming service.",
+        "de": "Ein brasilianischer Streaming-Dienst."
+    },
+    "domains": [
+        "cloud-jarvis.globo.com",
+        "globoplay.com",
+        "globoplay.com.br",
+        "globoplay.globo.com"
+    ]
+}

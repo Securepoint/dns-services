@@ -1,5 +1,6 @@
 {
     "name": "DigitalOcean",
+    "group": "cloud",
     "description": {
         "en": "Cloud infrastructure provider offering virtual private servers, managed databases, and other cloud services for developers.",
         "de": "Cloud-Infrastruktur-Anbieter, der virtuelle private Server, verwaltete Datenbanken und andere Cloud-Services für Entwickler anbietet."

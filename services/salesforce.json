@@ -1,5 +1,6 @@
 {
     "name": "Salesforce",
+    "group": "business",
     "description": {
         "en": "A cloud-based customer relationship management (CRM) platform that helps businesses manage sales, marketing, and customer service.",
         "de": "Eine cloudbasierte Customer Relationship Management (CRM)-Plattform, die Unternehmen bei der Verwaltung von Vertrieb, Marketing und Kundenservice hilft."

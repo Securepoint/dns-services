@@ -1,0 +1,11 @@
+{
+    "name": "Kik",
+    "group": "messenger",
+    "description": {
+        "en": "An instant messaging app.",
+        "de": "Eine Instant-Messaging-App."
+    },
+    "domains": [
+        "kik.com"
+    ]
+}

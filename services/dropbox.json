@@ -1,5 +1,6 @@
 {
     "name": "Dropbox",
+    "group": "hosting",
     "description": {
         "en": "A cloud storage service.",
         "de": "Ein Cloud-Speicherdienst."

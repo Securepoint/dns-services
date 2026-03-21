@@ -1,5 +1,6 @@
 {
     "name": "Wish",
+    "group": "shopping",
     "description": {
         "en": "A global e-commerce platform offering affordable products, daily deals, and direct shipping from merchants to consumers.",
         "de": "Eine globale E-Commerce-Plattform mit günstigen Produkten, täglichen Angeboten und Direktversand von Händlern an Verbraucher."

@@ -1,5 +1,6 @@
 {
     "name": "Crunchyroll",
+    "group": "streaming",
     "description": {
         "en": "A streaming service for anime and Asian dramas.",
         "de": "Ein Streaming-Dienst für Anime und asiatische Dramen."

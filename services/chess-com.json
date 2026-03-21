@@ -1,5 +1,6 @@
 {
     "name": "Chess.com",
+    "group": "gaming",
     "description": {
         "en": "A chess platform.",
         "de": "Eine Schachplattform."

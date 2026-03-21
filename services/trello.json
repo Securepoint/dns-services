@@ -1,5 +1,6 @@
 {
     "name": "Trello",
+    "group": "business",
     "description": {
         "en": "A project management tool.",
         "de": "Ein Projektmanagement-Tool."

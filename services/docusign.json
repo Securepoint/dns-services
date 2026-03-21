@@ -1,5 +1,6 @@
 {
     "name": "DocuSign",
+    "group": "business",
     "description": {
         "en": "Digital transaction management platform providing electronic signature, contract lifecycle management, and document workflow solutions.",
         "de": "Digitale Transaktionsmanagement-Plattform mit elektronischen Signaturen, Contract Lifecycle Management und Dokument-Workflow-Lösungen."

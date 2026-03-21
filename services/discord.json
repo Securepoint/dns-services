@@ -1,5 +1,6 @@
 {
     "name": "Discord",
+    "group": "social",
     "description": {
         "en": "A versatile communication platform for communities, gamers, and professionals, featuring voice, video, and text chat.",
         "de": "Eine vielseitige Kommunikationsplattform für Communities, Gamer und Profis mit Sprach-, Video- und Textchat."

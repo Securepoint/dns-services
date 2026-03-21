@@ -1,5 +1,6 @@
 {
     "name": "Coursera",
+    "group": "education",
     "description": {
         "en": "An online learning platform offering courses, specializations, and degrees from universities and companies worldwide.",
         "de": "Eine Online-Lernplattform mit Kursen, Spezialisierungen und Abschlüssen von Universitäten und Unternehmen weltweit."

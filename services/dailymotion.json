@@ -1,5 +1,6 @@
 {
     "name": "Dailymotion",
+    "group": "streaming",
     "description": {
         "en": "A video-sharing platform.",
         "de": "Eine Video-Sharing-Plattform."

@@ -1,0 +1,13 @@
+{
+    "name": "4chan",
+    "group": "social",
+    "description": {
+        "en": "An anonymous imageboard.",
+        "de": "Ein anonymes Imageboard."
+    },
+    "domains": [
+        "4cdn.org",
+        "4chan.org",
+        "4channel.org"
+    ]
+}

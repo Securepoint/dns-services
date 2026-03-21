@@ -1,5 +1,6 @@
 {
     "name": "Splunk",
+    "group": "developer",
     "description": {
         "en": "Data analytics platform that helps organizations search, monitor, and analyze machine-generated data for operational intelligence.",
         "de": "Datenanalyse-Plattform, die Organisationen dabei hilft, maschinengenerierte Daten für operative Intelligenz zu durchsuchen, zu überwachen und zu analysieren."

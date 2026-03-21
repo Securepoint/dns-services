@@ -1,5 +1,6 @@
 {
     "name": "Amazon",
+    "group": "shopping",
     "description": {
         "en": "A leading global e-commerce platform offering a vast selection of products, fast delivery, and digital services.",
         "de": "Eine führende globale E-Commerce-Plattform mit einer riesigen Produktauswahl, schneller Lieferung und digitalen Services."

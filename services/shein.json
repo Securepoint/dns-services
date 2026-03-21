@@ -1,5 +1,6 @@
 {
     "name": "Shein",
+    "group": "shopping",
     "description": {
         "en": "An online retail service.",
         "de": "Ein Online-Einzelhandelsservice."

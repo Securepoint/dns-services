@@ -1,0 +1,13 @@
+{
+    "name": "Rakuten Viki",
+    "group": "streaming",
+    "description": {
+        "en": "A streaming platform for Asian content.",
+        "de": "Eine Streaming-Plattform für asiatische Inhalte."
+    },
+    "domains": [
+        "m-content-viki.s.llnwi.net",
+        "viki.com",
+        "viki.io"
+    ]
+}

@@ -1,5 +1,6 @@
 {
     "name": "Telegram",
+    "group": "messenger",
     "description": {
         "en": "A cloud-based instant messaging app.",
         "de": "Eine cloudbasierte Instant-Messaging-App."

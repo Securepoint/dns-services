@@ -1,5 +1,6 @@
 {
     "name": "Whatsapp",
+    "group": "messenger",
     "description": {
         "en": "A messaging platform.",
         "de": "Eine Messaging-Plattform."

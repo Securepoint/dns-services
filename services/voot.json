@@ -1,0 +1,11 @@
+{
+    "name": "Voot",
+    "group": "streaming",
+    "description": {
+        "en": "An Indian streaming service.",
+        "de": "Ein indischer Streaming-Dienst."
+    },
+    "domains": [
+        "voot.com"
+    ]
+}

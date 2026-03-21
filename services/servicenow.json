@@ -1,5 +1,6 @@
 {
     "name": "ServiceNow",
+    "group": "business",
     "description": {
         "en": "Cloud computing platform providing IT service management, IT operations management, and business process automation solutions.",
         "de": "Cloud-Computing-Plattform, die IT-Service-Management, IT-Operations-Management und Geschäftsprozessautomatisierung bietet."

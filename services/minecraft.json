@@ -1,5 +1,6 @@
 {
     "name": "Minecraft",
+    "group": "gaming",
     "description": {
         "en": "A sandbox video game developed by Mojang Studios.",
         "de": "Ein Sandbox-Videospiel von Mojang Studios."

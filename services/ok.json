@@ -1,0 +1,16 @@
+{
+    "name": "OK.ru",
+    "group": "social",
+    "description": {
+        "en": "A Russian social network (Odnoklassniki).",
+        "de": "Ein russisches soziales Netzwerk (Odnoklassniki)."
+    },
+    "domains": [
+        "insideok.ru",
+        "ok.games",
+        "ok.ru",
+        "okcdn.ru",
+        "oktech.ru",
+        "st.mycdn.me"
+    ]
+}

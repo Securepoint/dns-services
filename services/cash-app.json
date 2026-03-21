@@ -1,5 +1,6 @@
 {
     "name": "Cash App",
+    "group": "finance",
     "description": {
         "en": "A mobile payment service.",
         "de": "Ein mobiler Zahlungsdienst."

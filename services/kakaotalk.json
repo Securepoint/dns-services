@@ -1,0 +1,12 @@
+{
+    "name": "KakaoTalk",
+    "group": "messenger",
+    "description": {
+        "en": "A South Korean messaging app.",
+        "de": "Eine südkoreanische Messaging-App."
+    },
+    "domains": [
+        "kakao.com",
+        "kgslb.com"
+    ]
+}

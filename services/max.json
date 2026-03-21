@@ -1,0 +1,11 @@
+{
+    "name": "MAX",
+    "group": "messenger",
+    "description": {
+        "en": "A streaming service by Warner Bros. Discovery.",
+        "de": "Ein Streaming-Dienst von Warner Bros. Discovery."
+    },
+    "domains": [
+        "max.ru"
+    ]
+}

@@ -1,5 +1,6 @@
 {
     "name": "Jitsi Meet",
+    "group": "messenger",
     "description": {
         "en": "A video conferencing service.",
         "de": "Ein Videokonferenzdienst."

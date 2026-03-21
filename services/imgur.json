@@ -1,5 +1,6 @@
 {
     "name": "Imgur",
+    "group": "hosting",
     "description": {
         "en": "An online image sharing community and image host.",
         "de": "Eine Online-Community zum Teilen und Hosten von Bildern."

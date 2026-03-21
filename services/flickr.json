@@ -1,0 +1,16 @@
+{
+    "name": "Flickr",
+    "group": "hosting",
+    "description": {
+        "en": "A photo sharing platform.",
+        "de": "Eine Foto-Sharing-Plattform."
+    },
+    "domains": [
+        "flic.kr",
+        "flickr.com",
+        "flickr.net",
+        "flickrprints.com",
+        "flickrpro.com",
+        "staticflickr.com"
+    ]
+}

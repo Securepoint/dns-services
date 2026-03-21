@@ -1,5 +1,6 @@
 {
     "name": "Twitch",
+    "group": "streaming",
     "description": {
         "en": "A live streaming platform primarily for gamers.",
         "de": "Eine Live-Streaming-Plattform, hauptsächlich für Gamer."

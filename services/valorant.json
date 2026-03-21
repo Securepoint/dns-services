@@ -1,0 +1,13 @@
+{
+    "name": "Valorant",
+    "group": "gaming",
+    "description": {
+        "en": "A tactical first-person shooter by Riot Games.",
+        "de": "Ein taktischer Ego-Shooter von Riot Games."
+    },
+    "domains": [
+        "playvalorant.com",
+        "valorant.scd.riotcdn.net",
+        "valorant.secure.dyn.riotcdn.net"
+    ]
+}

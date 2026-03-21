@@ -1,0 +1,12 @@
+{
+    "name": "Discovery+",
+    "group": "streaming",
+    "description": {
+        "en": "A streaming service by Discovery.",
+        "de": "Ein Streaming-Dienst von Discovery."
+    },
+    "domains": [
+        "disco-api.com",
+        "discoveryplus.com"
+    ]
+}

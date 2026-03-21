@@ -1,5 +1,6 @@
 {
     "name": "Amazon Web Services",
+    "group": "cloud",
     "description": {
         "en": "Amazon's comprehensive cloud computing platform offering web services, storage, and infrastructure solutions.",
         "de": "Amazons umfassende Cloud-Computing-Plattform mit Webdiensten, Speicher und Infrastrukturlösungen."

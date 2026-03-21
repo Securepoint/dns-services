@@ -1,0 +1,13 @@
+{
+    "name": "CoolApk",
+    "group": "shopping",
+    "description": {
+        "en": "A Chinese app store and tech community.",
+        "de": "Ein chinesischer App-Store und Tech-Community."
+    },
+    "domains": [
+        "coolapk.com",
+        "coolapkmarket.com",
+        "coolapkmarket.net"
+    ]
+}

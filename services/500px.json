@@ -1,0 +1,12 @@
+{
+    "name": "500px",
+    "group": "social",
+    "description": {
+        "en": "A photo community and platform for photographers.",
+        "de": "Eine Foto-Community und Plattform für Fotografen."
+    },
+    "domains": [
+        "500px.com",
+        "500px.org"
+    ]
+}

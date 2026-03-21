@@ -1,5 +1,6 @@
 {
     "name": "Atlassian Jira",
+    "group": "developer",
     "description": {
         "en": "A project management and issue tracking software tool designed for agile teams to plan, track, and manage software development projects.",
         "de": "Ein Projektmanagement- und Issue-Tracking-Software-Tool für agile Teams zur Planung, Verfolgung und Verwaltung von Softwareentwicklungsprojekten."

@@ -1,0 +1,13 @@
+{
+    "name": "Douban",
+    "group": "social",
+    "description": {
+        "en": "A Chinese social networking platform for culture and media.",
+        "de": "Eine chinesische Social-Networking-Plattform für Kultur."
+    },
+    "domains": [
+        "douban.com",
+        "douban.fm",
+        "doubanio.com"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Vivo Play",
+    "group": "streaming",
+    "description": {
+        "en": "A Brazilian streaming service.",
+        "de": "Ein brasilianischer Streaming-Dienst."
+    },
+    "domains": [
+        "vivoplay.com.br",
+        "vivoplay.net",
+        "vivotv.com.br"
+    ]
+}

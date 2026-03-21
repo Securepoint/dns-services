@@ -1,5 +1,6 @@
 {
     "name": "Xbox Live",
+    "group": "gaming",
     "description": {
         "en": "An online gaming service for Xbox consoles.",
         "de": "Ein Online-Gaming-Dienst für Xbox-Konsolen."

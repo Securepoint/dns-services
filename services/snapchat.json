@@ -1,5 +1,6 @@
 {
     "name": "Snapchat",
+    "group": "social",
     "description": {
         "en": "A multimedia messaging app.",
         "de": "Eine Multimedia-Messaging-App."

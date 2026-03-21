@@ -1,5 +1,6 @@
 {
     "name": "Steam",
+    "group": "gaming",
     "description": {
         "en": "A digital distribution platform for video games.",
         "de": "Eine digitale Vertriebsplattform für Videospiele."

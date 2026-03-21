@@ -1,0 +1,11 @@
+{
+    "name": "Plenty of Fish",
+    "group": "dating",
+    "description": {
+        "en": "An online dating platform.",
+        "de": "Eine Online-Dating-Plattform."
+    },
+    "domains": [
+        "pof.com"
+    ]
+}

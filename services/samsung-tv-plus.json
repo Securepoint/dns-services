@@ -1,0 +1,14 @@
+{
+    "name": "Samsung TV Plus",
+    "group": "streaming",
+    "description": {
+        "en": "A free streaming service by Samsung.",
+        "de": "Ein kostenloser Streaming-Dienst von Samsung."
+    },
+    "domains": [
+        "internetat.tv",
+        "samsung.wurl.tv",
+        "samsungcloud.tv",
+        "samsungtvplus.com"
+    ]
+}

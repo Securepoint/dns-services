@@ -1,0 +1,12 @@
+{
+    "name": "FIFA",
+    "group": "streaming",
+    "description": {
+        "en": "The official platform of the international football association.",
+        "de": "Die offizielle Plattform des Fußball-Weltverbands."
+    },
+    "domains": [
+        "fifa.com",
+        "fifaplus.com"
+    ]
+}

@@ -1,5 +1,6 @@
 {
     "name": "Booking.com",
+    "group": "shopping",
     "description": {
         "en": "A vacation rental service.",
         "de": "Ein Service für Ferienunterkünfte."

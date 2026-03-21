@@ -1,5 +1,6 @@
 {
     "name": "Perplexity",
+    "group": "ai",
     "description": {
         "en": "An AI language model.",
         "de": "Ein KI-Sprachmodell."

@@ -1,5 +1,6 @@
 {
     "name": "Figma",
+    "group": "software",
     "description": {
         "en": "A web-based collaborative design tool for creating user interfaces, prototypes, and vector graphics.",
         "de": "Ein webbasiertes kollaboratives Design-Tool zum Erstellen von Benutzeroberflächen, Prototypen und Vektorgrafiken."

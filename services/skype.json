@@ -7,12 +7,12 @@
     },
     "domains": [
         "edge-skype-com.s-0001.s-msedge.net",
-        "skype",
         "skype-edf.akadns.net",
         "skype.com",
         "skype.net",
         "skypeassets.com",
         "skypeassets.net",
         "skypedata.akadns.net"
-    ]
+    ],
+    "patterns": ["^([a-zA-Z0-9-]+\\.)*skype\\.([a-zA-Z0-9.-]+)$"]
 }

@@ -21,9 +21,9 @@ type Service struct {
 	Patterns    []string    `json:"patterns,omitempty"`
 }
 
-type CompiledGroup struct {
-	Name     Description        `json:"name"`
-	Services map[string]Service `json:"services"`
+type CompiledOutput struct {
+	Groups   map[string]Description `json:"groups"`
+	Services map[string]Service     `json:"services"`
 }
 
 func main() {
@@ -33,12 +33,9 @@ func main() {
 		os.Exit(1)
 	}
 
-	compiled := make(map[string]*CompiledGroup, len(groups))
-	for id, name := range groups {
-		compiled[id] = &CompiledGroup{
-			Name:     name,
-			Services: make(map[string]Service),
-		}
+	compiled := CompiledOutput{
+		Groups:   groups,
+		Services: make(map[string]Service),
 	}
 
 	entries, err := os.ReadDir("services")
@@ -68,13 +65,12 @@ func main() {
 
 		serviceID := strings.TrimSuffix(e.Name(), ".json")
 
-		group, ok := compiled[svc.Group]
-		if !ok {
+		if _, ok := groups[svc.Group]; !ok {
 			fmt.Fprintf(os.Stderr, "unknown group %q in %s\n", svc.Group, e.Name())
 			os.Exit(1)
 		}
 
-		group.Services[serviceID] = svc
+		compiled.Services[serviceID] = svc
 		fmt.Printf("compiled: %s -> %s\n", serviceID, svc.Group)
 	}
 
@@ -91,7 +87,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	fmt.Printf("successfully compiled %d services in %d groups to services.json\n", cnt, len(compiled))
+	fmt.Printf("successfully compiled %d services in %d groups to services.json\n", cnt, len(compiled.Groups))
 }
 
 func loadGroups(path string) (map[string]Description, error) {

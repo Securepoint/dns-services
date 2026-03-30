@@ -5,7 +5,5 @@
         "en": "An AI language model.",
         "de": "Ein KI-Sprachmodell."
     },
-    "domains": [
-        "chat.openai.com"
-    ]
+    "domains": ["chat.openai.com", "chatgpt.com"]
 }

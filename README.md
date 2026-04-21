@@ -17,7 +17,8 @@ This repository contains JSON definitions for various services and their associa
 dns-services/
 ├── README.md
 ├── schema.json         # JSON schema defining the service structure
-├── compile.js          # Script to compile all services into a single JSON file
+├── main.go             # Script to compile all services into a single JSON file
+├── service_ids.json    # Stable numeric IDs per service filename
 └── services/           # Directory containing all service definitions
     ├── service1.json
     ├── service2.json
@@ -40,10 +41,15 @@ The compiled `services.json` file is available in two ways:
 To compile the services locally:
 
 ```bash
-node compile.js
+go run main.go
 ```
 
-This will generate a `services.json` file in the root directory containing all services.
+This will generate:
+
+- `services.json` with the compiled service catalog
+- `service_ids.json` with the stable numeric ID registry used by the compiler
+
+Each compiled service now includes an `id` field. Existing IDs are preserved, and only newly added service files receive the next free number.
 
 ## Adding New Services
 

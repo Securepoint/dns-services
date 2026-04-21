@@ -29,7 +29,9 @@ jobs:
               uses: actions/upload-artifact@v4
               with:
                   name: services-compiled
-                  path: services.json
+                  path: |
+                      services.json
+                      service_ids.json
                   retention-days: 90
 
             - name: Create Release and Upload Asset
@@ -45,4 +47,5 @@ jobs:
                     --title "Services ${VERSION}" \
                     --notes "Combined service definitions" \
                     --latest \
-                    services.json
+                    services.json \
+                    service_ids.json

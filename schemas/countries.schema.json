@@ -1,0 +1,23 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "object",
+            "properties": {
+                "en": {
+                    "type": "string",
+                    "description": "The English country name"
+                },
+                "de": {
+                    "type": "string",
+                    "description": "The German country name"
+                }
+            },
+            "required": ["en", "de"],
+            "additionalProperties": false
+        }
+    },
+    "required": ["name"],
+    "additionalProperties": false
+}

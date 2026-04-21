@@ -1,3 +1,3 @@
-module github.com/Securepoint/dns-services
+module github.com/Securepoint/cloud-shield-definitions
 
-go 1.25.0
+go 1.26.2

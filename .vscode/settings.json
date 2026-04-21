@@ -4,7 +4,13 @@
             "fileMatch": [
                 "services/*.json"
             ],
-            "url": "./schema.json"
+            "url": "./schemas/services.schema.json"
+        },
+        {
+            "fileMatch": [
+                "countries/*.json"
+            ],
+            "url": "./schemas/countries.schema.json"
         }
     ],
     "json.validate.enable": true,

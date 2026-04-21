@@ -22,10 +22,7 @@
                     "description": "The German description of the service"
                 }
             },
-            "required": [
-                "en",
-                "de"
-            ]
+            "required": ["en", "de"]
         },
         "domains": {
             "type": "array",
@@ -43,27 +40,16 @@
             }
         }
     },
-    "required": [
-        "name",
-        "group",
-        "description"
-    ],
+    "required": ["name", "group", "description"],
     "anyOf": [
         {
-            "required": [
-                "domains"
-            ]
+            "required": ["domains"]
         },
         {
-            "required": [
-                "patterns"
-            ]
+            "required": ["patterns"]
         },
         {
-            "required": [
-                "domains",
-                "patterns"
-            ]
+            "required": ["domains", "patterns"]
         }
     ],
     "additionalProperties": false

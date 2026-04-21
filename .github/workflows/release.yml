@@ -28,10 +28,11 @@ jobs:
             - name: Upload Compiled Services
               uses: actions/upload-artifact@v4
               with:
-                  name: services-compiled
+                  name: cloud-shield-definitions
                   path: |
                       services.json
-                      service_ids.json
+                      countries.json
+                      ids.json
                   retention-days: 90
 
             - name: Create Release and Upload Asset
@@ -44,8 +45,9 @@ jobs:
                   echo "Creating release ${TAG_NAME}"
 
                   gh release create "${TAG_NAME}" \
-                    --title "Services ${VERSION}" \
-                    --notes "Combined service definitions" \
+                    --title "Definitions ${VERSION}" \
+                    --notes "Combined service and country definitions" \
                     --latest \
                     services.json \
-                    service_ids.json
+                    countries.json \
+                    ids.json

@@ -21,4 +21,7 @@ jobs:
               uses: sourcemeta/jsonschema@v11.5.1
 
             - name: Validate Service Schema
-              run: jsonschema validate ./schema.json ./services/*.json
+              run: jsonschema validate ./schemas/services.schema.json ./services/*.json
+
+            - name: Validate Country Schema
+              run: jsonschema validate ./schemas/countries.schema.json ./countries/*.json

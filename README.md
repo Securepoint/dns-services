@@ -3,57 +3,79 @@
 </p>
 
 
-# Securepoint DNS Services
+# Securepoint Cloud Shield Definitions
 
-A collection of services with the corresponding domains used in our product "Cloud Shield".
+A collection of Cloud Shield definitions, including services with their domains and ISO country definitions.
 
 ## Overview
 
-This repository contains JSON definitions for various services and their associated domains that are used by Cloud Shield. Each service is defined in a separate JSON file that follows a standardized schema to ensure consistency and reliability.
+This repository contains JSON definitions used by Cloud Shield. Services are defined with their associated domains, and countries are defined by ISO alpha-2 code with English and German display names.
 
 ## Repository Structure
 
 ```
-dns-services/
+cloud-shield-definitions/
 ├── README.md
-├── schema.json         # JSON schema defining the service structure
-├── compile.js          # Script to compile all services into a single JSON file
-└── services/           # Directory containing all service definitions
-    ├── service1.json
-    ├── service2.json
+├── schemas/
+│   ├── services.schema.json  # JSON schema defining the service structure
+│   └── countries.schema.json # JSON schema defining the country structure
+├── main.go             # Script to compile all definitions into generated JSON files
+├── ids.json            # Stable numeric IDs grouped by service filename and ISO country code
+├── services/           # Directory containing all service definitions
+│   ├── service1.json
+│   ├── service2.json
+│   └── ...
+└── countries/          # Directory containing ISO country definitions
+    ├── DE.json
+    ├── FR.json
     └── ...
 ```
 
-## Compiled Services
+## Compiled Definitions
 
-All individual service files are automatically compiled into a single `services.json` file through the CI/CD pipeline. This compiled file contains all services in a single JSON object where each key is the filename (without `.json` extension).
+All individual definition files are automatically compiled into generated JSON catalogs. Service definitions are compiled into `services.json`, and country definitions are compiled into `countries.json`.
 
 ### Downloading the Compiled File
 
-The compiled `services.json` file is available in two ways:
+The compiled files are available in two ways:
 
 1. **GitHub Releases**: Automatically published with each push to master branch
 2. **GitHub Actions Artifacts**: Available for all CI runs (including pull requests)
 
 ### Local Compilation
 
-To compile the services locally:
+To compile the definitions locally:
 
 ```bash
-node compile.js
+go run main.go
 ```
 
-This will generate a `services.json` file in the root directory containing all services.
+This will generate:
+
+- `services.json` with the compiled service catalog
+- `countries.json` with the compiled country catalog
+- `ids.json` with the stable numeric ID registry in the form `{ "services": {...}, "countries": {...} }`
+
+Each compiled service includes an `id` field. Each compiled country includes an `id` and `code` field. Existing IDs are preserved, and only newly added definition files receive the next free number.
 
 ## Adding New Services
 
 To add a new service:
 
 1. Create a new JSON file in the `services` directory
-2. Follow the structure defined in `schema.json`
+2. Follow the structure defined in `schemas/services.schema.json`
 3. Include all required fields and adhere to the specified formats
 4. Use a descriptive filename that clearly identifies the service
 5. Validate your JSON against the schema before submitting
+
+## Adding New Countries
+
+To add a new country definition:
+
+1. Create a new JSON file in the `countries` directory named with the ISO alpha-2 code, for example `DE.json`
+2. Follow the structure defined in `schemas/countries.schema.json`
+3. Include English and German names in the `name` object
+4. Do not rename existing country files after they are merged
 
 
 > [!WARNING]

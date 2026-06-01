@@ -8,7 +8,7 @@ A collection of Cloud Shield definitions, including services with their domains.
 
 ## Overview
 
-This repository contains JSON definitions used by Cloud Shield. Services are defined with their associated domains.
+This repository contains JSON definitions used by Cloud Shield. Services are defined with their associated domains, and groups include localized labels plus Font Awesome icon classes.
 
 ## Repository Structure
 

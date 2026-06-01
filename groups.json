@@ -1,70 +1,87 @@
 {
     "ai": {
         "en": "Artificial Intelligence",
-        "de": "Künstliche Intelligenz"
+        "de": "Künstliche Intelligenz",
+        "icon": "fa-brain"
     },
     "cdn": {
         "en": "Content Delivery Networks",
-        "de": "Content-Delivery-Netzwerke"
+        "de": "Content-Delivery-Netzwerke",
+        "icon": "fa-server"
     },
     "cloud": {
         "en": "Cloud Services",
-        "de": "Cloud-Dienste"
+        "de": "Cloud-Dienste",
+        "icon": "fa-cloud"
     },
     "dating": {
         "en": "Dating",
-        "de": "Dating"
+        "de": "Dating",
+        "icon": "fa-heart"
     },
     "developer": {
         "en": "Developer Tools",
-        "de": "Entwicklerwerkzeuge"
+        "de": "Entwicklerwerkzeuge",
+        "icon": "fa-code"
     },
     "education": {
         "en": "Education",
-        "de": "Bildung"
+        "de": "Bildung",
+        "icon": "fa-graduation-cap"
     },
     "finance": {
         "en": "Finance",
-        "de": "Finanzen"
+        "de": "Finanzen",
+        "icon": "fa-money-bill-trend-up"
     },
     "gambling": {
         "en": "Gambling",
-        "de": "Glücksspiel"
+        "de": "Glücksspiel",
+        "icon": "fa-dice"
     },
     "gaming": {
         "en": "Gaming",
-        "de": "Spiele"
+        "de": "Spiele",
+        "icon": "fa-gamepad"
     },
     "hosting": {
         "en": "Hosting & Storage",
-        "de": "Hosting & Speicher"
+        "de": "Hosting & Speicher",
+        "icon": "fa-hard-drive"
     },
     "business": {
         "en": "Business & Productivity",
-        "de": "Business & Produktivität"
+        "de": "Business & Produktivität",
+        "icon": "fa-briefcase"
     },
     "messenger": {
         "en": "Messaging",
-        "de": "Messaging"
+        "de": "Messaging",
+        "icon": "fa-comments"
     },
     "privacy": {
         "en": "Privacy",
-        "de": "Privatsphäre"
+        "de": "Privatsphäre",
+        "icon": "fa-user-shield"
     },
     "shopping": {
         "en": "Shopping",
-        "de": "Einkaufen"
+        "de": "Einkaufen",
+        "icon": "fa-cart-shopping"
     },
     "social": {
         "en": "Social Networks",
-        "de": "Soziale Netzwerke"
+        "de": "Soziale Netzwerke",
+        "icon": "fa-share-nodes"
     },
     "software": {
         "en": "Software",
-        "de": "Software"
+        "de": "Software",
+        "icon": "fa-window-maximize"
     },
     "streaming": {
         "en": "Streaming",
-        "de": "Streaming"
+        "de": "Streaming",
+        "icon": "fa-play"
     }
 }

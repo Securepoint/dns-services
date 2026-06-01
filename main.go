@@ -8,23 +8,29 @@ import (
 	"strings"
 )
 
-type Description struct {
+type LocalizedText struct {
 	En string `json:"en"`
 	De string `json:"de"`
 }
 
+type Group struct {
+	En   string `json:"en"`
+	De   string `json:"de"`
+	Icon string `json:"icon"`
+}
+
 type Service struct {
-	ID          int         `json:"id"`
-	Name        string      `json:"name"`
-	Group       string      `json:"group"`
-	Description Description `json:"description"`
-	Domains     []string    `json:"domains,omitempty"`
-	Patterns    []string    `json:"patterns,omitempty"`
+	ID          int           `json:"id"`
+	Name        string        `json:"name"`
+	Group       string        `json:"group"`
+	Description LocalizedText `json:"description"`
+	Domains     []string      `json:"domains,omitempty"`
+	Patterns    []string      `json:"patterns,omitempty"`
 }
 
 type CompiledServicesOutput struct {
-	Groups   map[string]Description `json:"groups"`
-	Services map[string]Service     `json:"services"`
+	Groups   map[string]Group   `json:"groups"`
+	Services map[string]Service `json:"services"`
 }
 
 type StableIDs struct {
@@ -72,7 +78,7 @@ func main() {
 	fmt.Printf("successfully compiled %d services in %d groups to services.json using %d stable ids\n", serviceCount, len(compiledServices.Groups), len(stableIDs.Services))
 }
 
-func compileServices(dir string, groups map[string]Description, serviceIDs map[string]int, nextServiceID int, dst map[string]Service) (int, error) {
+func compileServices(dir string, groups map[string]Group, serviceIDs map[string]int, nextServiceID int, dst map[string]Service) (int, error) {
 	entries, err := os.ReadDir(dir)
 	if err != nil {
 		return 0, err
@@ -117,13 +123,13 @@ func compileServices(dir string, groups map[string]Description, serviceIDs map[s
 	return count, nil
 }
 
-func loadGroups(path string) (map[string]Description, error) {
+func loadGroups(path string) (map[string]Group, error) {
 	d, err := os.ReadFile(path)
 	if err != nil {
 		return nil, err
 	}
 
-	var g map[string]Description
+	var g map[string]Group
 	if err := json.Unmarshal(d, &g); err != nil {
 		return nil, err
 	}

@@ -31,7 +31,6 @@ jobs:
                   name: cloud-shield-definitions
                   path: |
                       services.json
-                      countries.json
                       ids.json
                   retention-days: 90
 
@@ -46,8 +45,7 @@ jobs:
 
                   gh release create "${TAG_NAME}" \
                     --title "Definitions ${VERSION}" \
-                    --notes "Combined service and country definitions" \
+                    --notes "Combined service definitions" \
                     --latest \
                     services.json \
-                    countries.json \
                     ids.json

@@ -2,7 +2,7 @@
     "ai": {
         "en": "Artificial Intelligence",
         "de": "Künstliche Intelligenz",
-        "icon": "fa-brain"
+        "icon": "fa-robot"
     },
     "cdn": {
         "en": "Content Delivery Networks",

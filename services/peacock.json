@@ -6,9 +6,7 @@
         "de": "Ein Streaming-Dienst für Filme und Fernsehsendungen."
     },
     "domains": [
-        "nbcuniversal.com"
-    ],
-    "patterns": [
-        "^([a-zA-Z0-9-]+\\.)*peacocktv\\.([a-zA-Z0-9.-]+)$"
+        "nbcuniversal.com",
+        "peacocktv.*"
     ]
 }

@@ -25,6 +25,11 @@ jobs:
             - name: Compile Services
               run: go run main.go
 
+            - name: Commit and push changes
+              uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
+              with:
+                  commit_message: "chore: update compiled services"
+
             - name: Upload Compiled Services
               uses: actions/upload-artifact@v4
               with:

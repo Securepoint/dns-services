@@ -75,6 +75,11 @@ func main() {
 		os.Exit(1)
 	}
 
+	if err := writeJSONFile(stableIDsPath, stableIDs); err != nil {
+		fmt.Fprintf(os.Stderr, "error writing stable ids: %v\n", err)
+		os.Exit(1)
+	}
+
 	fmt.Printf("successfully compiled %d services in %d groups to services.json using %d stable ids\n", serviceCount, len(compiledServices.Groups), len(stableIDs.Services))
 }
 

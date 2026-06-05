@@ -1,0 +1,9 @@
+{
+    "name": "Terabox",
+    "group": "hosting",
+    "description": {
+        "en": "A cloud storage service.",
+        "de": "Ein Cloud-Speicherdienst."
+    },
+    "domains": ["terabox.com"]
+}

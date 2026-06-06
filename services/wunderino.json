@@ -1,0 +1,11 @@
+{
+    "name": "Wunderino",
+    "group": "gambling",
+    "description": {
+        "en": "Online casino.",
+        "de": "Online-Casino."
+    },
+    "domains": [
+        "wunderino.de"
+    ]
+}

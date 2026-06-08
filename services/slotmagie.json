@@ -1,0 +1,11 @@
+{
+    "name": "Slotmagie",
+    "group": "gambling",
+    "description": {
+        "en": "Online casino.",
+        "de": "Online-Casino."
+    },
+    "domains": [
+        "slotmagie.de"
+    ]
+}

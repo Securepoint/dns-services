@@ -1,0 +1,11 @@
+{
+    "name": "Stake",
+    "group": "gambling",
+    "description": {
+        "en": "Online gambling platform.",
+        "de": "Online-Glücksspielplattform."
+    },
+    "domains": [
+        "stake.com"
+    ]
+}

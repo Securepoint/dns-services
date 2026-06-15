@@ -5,7 +5,5 @@
         "en": "An online retail service based in China.",
         "de": "Ein Online-Einzelhandelsservice mit Sitz in China."
     },
-    "patterns": [
-        "^([a-zA-Z0-9-]+\\.)*aliexpress\\.([a-zA-Z0-9.-]+)$"
-    ]
+    "domains": ["aliexpress.*"]
 }

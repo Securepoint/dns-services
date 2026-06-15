@@ -29,28 +29,10 @@
             "description": "A list of domains associated with the service",
             "items": {
                 "type": "string",
-                "pattern": "^(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,}$"
-            }
-        },
-        "patterns": {
-            "type": "array",
-            "description": "A list of regex patterns to match domains",
-            "items": {
-                "type": "string"
+                "pattern": "^(?:\\*\\.)?(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+(?:[a-zA-Z]{2,}|\\*)$"
             }
         }
     },
-    "required": ["name", "group", "description"],
-    "anyOf": [
-        {
-            "required": ["domains"]
-        },
-        {
-            "required": ["patterns"]
-        },
-        {
-            "required": ["domains", "patterns"]
-        }
-    ],
+    "required": ["name", "group", "description", "domains"],
     "additionalProperties": false
 }

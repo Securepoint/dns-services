@@ -5,7 +5,7 @@
         "en": "A vacation rental service.",
         "de": "Ein Service für Ferienunterkünfte."
     },
-    "patterns": [
-        "^([a-zA-Z0-9-]+\\.)*booking\\.([a-zA-Z0-9.-]+)$"
+    "domains": [
+        "booking.*"
     ]
 }

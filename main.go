@@ -25,7 +25,6 @@ type Service struct {
 	Group       string        `json:"group"`
 	Description LocalizedText `json:"description"`
 	Domains     []string      `json:"domains,omitempty"`
-	Patterns    []string      `json:"patterns,omitempty"`
 }
 
 type CompiledServicesOutput struct {

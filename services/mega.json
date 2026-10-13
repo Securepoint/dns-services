@@ -1,0 +1,14 @@
+{
+    "name": "MEGA",
+    "group": "hosting",
+    "description": {
+        "en": "Encrypted cloud storage, file sharing, and synchronization.",
+        "de": "Verschlüsselter Cloud-Speicher mit Dateifreigaben und Synchronisierung."
+    },
+    "domains": [
+        "mega.io",
+        "mega.nz",
+        "mega.co.nz",
+        "megapay.nz"
+    ]
+}

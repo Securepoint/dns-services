@@ -1,0 +1,11 @@
+{
+    "name": "pCloud",
+    "group": "hosting",
+    "description": {
+        "en": "Cloud storage for synchronizing, backing up, and sharing files.",
+        "de": "Cloud-Speicher zum Synchronisieren, Sichern und Teilen von Dateien."
+    },
+    "domains": [
+        "pcloud.com"
+    ]
+}

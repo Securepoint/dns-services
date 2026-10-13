@@ -1,0 +1,13 @@
+{
+    "name": "Hugging Face",
+    "group": "ai",
+    "description": {
+        "en": "A platform for AI models, datasets, and hosted machine-learning applications.",
+        "de": "Eine Plattform für KI-Modelle, Datensätze und gehostete Machine-Learning-Anwendungen."
+    },
+    "domains": [
+        "huggingface.co",
+        "hf.co",
+        "hf.space"
+    ]
+}

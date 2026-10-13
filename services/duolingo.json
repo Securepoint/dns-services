@@ -1,0 +1,12 @@
+{
+    "name": "Duolingo",
+    "group": "education",
+    "description": {
+        "en": "A learning platform with interactive language lessons and other subjects.",
+        "de": "Eine Lernplattform mit interaktiven Sprachlektionen und weiteren Lerninhalten."
+    },
+    "domains": [
+        "duolingo.com",
+        "duolingo.cn"
+    ]
+}

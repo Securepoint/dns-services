@@ -1,0 +1,11 @@
+{
+    "name": "Joyn",
+    "group": "streaming",
+    "description": {
+        "en": "A streaming service for live television, series, films, and sports.",
+        "de": "Ein Streaming-Dienst für Live-TV, Serien, Filme und Sport."
+    },
+    "domains": [
+        "joyn.de"
+    ]
+}

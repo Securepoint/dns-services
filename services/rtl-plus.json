@@ -1,0 +1,12 @@
+{
+    "name": "RTL+",
+    "group": "streaming",
+    "description": {
+        "en": "A streaming service for television, films, series, sports, and audio entertainment.",
+        "de": "Ein Streaming-Dienst für Fernsehen, Filme, Serien, Sport und Audio-Unterhaltung."
+    },
+    "domains": [
+        "plus.rtl.de",
+        "rtlde.bedrock.tech"
+    ]
+}

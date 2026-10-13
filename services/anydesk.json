@@ -1,0 +1,11 @@
+{
+    "name": "AnyDesk",
+    "group": "software",
+    "description": {
+        "en": "Remote desktop software for remote access and technical support.",
+        "de": "Remote-Desktop-Software für Fernzugriff und technischen Support."
+    },
+    "domains": [
+        "anydesk.com"
+    ]
+}

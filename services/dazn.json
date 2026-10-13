@@ -1,0 +1,13 @@
+{
+    "name": "DAZN",
+    "group": "streaming",
+    "description": {
+        "en": "A sports streaming service with live events and on-demand coverage.",
+        "de": "Ein Sport-Streaming-Dienst mit Live-Events und Abrufinhalten."
+    },
+    "domains": [
+        "dazn.com",
+        "indazn.com",
+        "dazndn.com"
+    ]
+}

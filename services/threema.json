@@ -1,0 +1,12 @@
+{
+    "name": "Threema",
+    "group": "messenger",
+    "description": {
+        "en": "An encrypted messenger for private and business communication.",
+        "de": "Ein verschlüsselter Messenger für private und geschäftliche Kommunikation."
+    },
+    "domains": [
+        "threema.ch",
+        "threema.com"
+    ]
+}

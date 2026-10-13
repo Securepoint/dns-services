@@ -1,0 +1,11 @@
+{
+    "name": "DeepL",
+    "group": "ai",
+    "description": {
+        "en": "AI-powered translation and writing assistance.",
+        "de": "KI-gestützte Übersetzung und Schreibunterstützung."
+    },
+    "domains": [
+        "deepl.com"
+    ]
+}

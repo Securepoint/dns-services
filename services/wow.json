@@ -1,0 +1,11 @@
+{
+    "name": "WOW",
+    "group": "streaming",
+    "description": {
+        "en": "A streaming service for series, films, and live sports from Sky.",
+        "de": "Ein Streaming-Dienst für Serien, Filme und Live-Sport von Sky."
+    },
+    "domains": [
+        "wowtv.de"
+    ]
+}

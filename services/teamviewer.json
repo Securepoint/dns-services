@@ -1,0 +1,11 @@
+{
+    "name": "TeamViewer",
+    "group": "software",
+    "description": {
+        "en": "Remote access, remote control, and support software.",
+        "de": "Software für Fernzugriff, Fernsteuerung und Support."
+    },
+    "domains": [
+        "teamviewer.com"
+    ]
+}

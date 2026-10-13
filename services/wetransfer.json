@@ -1,0 +1,13 @@
+{
+    "name": "WeTransfer",
+    "group": "hosting",
+    "description": {
+        "en": "An online service for sending and sharing large files.",
+        "de": "Ein Online-Dienst zum Versenden und Teilen großer Dateien."
+    },
+    "domains": [
+        "wetransfer.com",
+        "wetransfer.net",
+        "we.tl"
+    ]
+}

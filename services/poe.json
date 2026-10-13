@@ -1,0 +1,11 @@
+{
+    "name": "Poe",
+    "group": "ai",
+    "description": {
+        "en": "A platform for chatting with and creating AI assistants from multiple providers.",
+        "de": "Eine Plattform zum Chatten mit und Erstellen von KI-Assistenten verschiedener Anbieter."
+    },
+    "domains": [
+        "poe.com"
+    ]
+}

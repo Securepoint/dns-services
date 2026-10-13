@@ -1,0 +1,12 @@
+{
+    "name": "Kahoot!",
+    "group": "education",
+    "description": {
+        "en": "A game-based learning platform for quizzes, training, and presentations.",
+        "de": "Eine spielbasierte Lernplattform für Quizze, Schulungen und Präsentationen."
+    },
+    "domains": [
+        "kahoot.com",
+        "kahoot.it"
+    ]
+}

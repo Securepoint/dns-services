@@ -1,0 +1,11 @@
+{
+    "name": "Mistral AI",
+    "group": "ai",
+    "description": {
+        "en": "AI assistants, language models, and APIs for text and software development.",
+        "de": "KI-Assistenten, Sprachmodelle und APIs für Textverarbeitung und Softwareentwicklung."
+    },
+    "domains": [
+        "mistral.ai"
+    ]
+}

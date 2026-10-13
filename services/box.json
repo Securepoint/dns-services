@@ -1,0 +1,14 @@
+{
+    "name": "Box",
+    "group": "hosting",
+    "description": {
+        "en": "Cloud content storage, file sharing, and collaboration.",
+        "de": "Cloud-Speicher für Inhalte, Dateifreigaben und Zusammenarbeit."
+    },
+    "domains": [
+        "box.com",
+        "box.net",
+        "boxcdn.net",
+        "boxcloud.com"
+    ]
+}

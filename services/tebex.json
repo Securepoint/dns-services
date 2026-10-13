@@ -1,0 +1,11 @@
+{
+    "name": "Tebex",
+    "group": "finance",
+    "description": {
+        "en": "Gaming-focused e-commerce platform for selling digital products, in-game items, and services.",
+        "de": "Gaming-fokussierte E-Commerce-Plattform zum Verkauf von digitalen Produkten, In-Game-Items und Dienstleistungen."
+    },
+    "domains": [
+        "tebex.io"
+    ]
+}

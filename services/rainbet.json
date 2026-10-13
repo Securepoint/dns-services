@@ -1,0 +1,11 @@
+{
+    "name": "Rainbet",
+    "group": "gambling",
+    "description": {
+        "en": "Crypto-focused online casino and sportsbook.",
+        "de": "Krypto-fokussiertes Online-Casino und Sportwettenanbieter."
+    },
+    "domains": [
+        "rainbet.com"
+    ]
+}
